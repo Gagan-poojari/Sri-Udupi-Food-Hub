@@ -1,0 +1,632 @@
+[
+    {
+      "category": "Hot Beverages",
+      "items": [
+        { "name": "Tea", "price": 40 },
+        { "name": "Ginger Coffee / Tea", "price": 40 },
+        { "name": "Lemon Tea", "price": 40 },
+        { "name": "Green Tea", "price": 45 },
+        { "name": "Babam Milk", "price": 45 },
+        { "name": "Horlicks", "price": 50 },
+        { "name": "Bournvita", "price": 50 },
+        { "name": "Black Coffe", "price": 40 },
+        { "name": "Coffee", "price": 40 },
+        { "name": "Boost", "price": 50 },
+        { "name": "Milk", "price": 40 }
+      ]
+    },
+    {
+      "category": "Breakfast",
+      "items": [
+        { "name": "Idli (2no)", "price": 80 },
+        { "name": "Idli Vada (single)", "price": 90 },
+        { "name": "Vada (1 No)", "price": 50 },
+        { "name": "Idli(2) Vada(1)", "price": 120 },
+        { "name": "Rava Idli", "price": 70 },
+        { "name": "Khara Bath", "price": 60 },
+        { "name": "Kesari Bath", "price": 60 },
+        { "name": "Chow Chow Bath", "price": 120 },
+        { "name": "Rice Bath", "price": 110 },
+        { "name": "Poori Saagu", "price": 120 },
+        { "name": "Bisi Bele Bath", "price": 120 },
+        { "name": "Pongal", "price": 100 },
+        { "name": "Curd Vada", "price": 70 },
+        { "name": "Mangalore Bajji", "price": 80 },
+        { "name": "Pakoda", "price": 80 },
+        { "name": "Paddu", "price": 100 },
+        { "name": "Idli [3 Nons]", "price": 100 },
+        { "name": "Tifen Combo With Coffe / Tea", "price": 220 },
+        { "name": "Single Idli", "price": 45 },
+        { "name": "Lemon Rice", "price": 100 },
+        { "name": "Bajji 4 Pic", "price": 70 },
+        { "name": "Rava Vada", "price": 90 },
+        { "name": "Mini Idli", "price": 90 },
+        { "name": "Thate Idli", "price": 60 },
+        { "name": "Ghee Pudi Tatte Idli", "price": 80 },
+        { "name": "Buns (2 Pcs)", "price": 100 },
+        { "name": "Mallige Idly", "price": 80 },
+        { "name": "Ghee Pudi Dosa", "price": 150 },
+        { "name": "Single Bonda Soup", "price": 50 }
+      ]
+    },
+    {
+      "category": "Dosa",
+      "items": [
+        { "name": "Plain Dosa", "price": 100 },
+        { "name": "Butter Plain Dosa", "price": 125 },
+        { "name": "Paneer Plain Dosa", "price": 140 },
+        { "name": "Cheese Plain Dosa", "price": 140 },
+        { "name": "Paper Plain Dosa", "price": 140 },
+        { "name": "Masala Dosa", "price": 120 },
+        { "name": "Butter Masala Dosa", "price": 135 },
+        { "name": "Paneer Masala Dosa", "price": 150 },
+        { "name": "Cheese Masala Dosa", "price": 150 },
+        { "name": "Paper Masala Dosa", "price": 160 },
+        { "name": "Set Dosa", "price": 150 },
+        { "name": "Onion Utthappa", "price": 150 },
+        { "name": "Rava Dosa", "price": 150 },
+        { "name": "Rava Onion Dosa", "price": 160 },
+        { "name": "Rava Masala Dosa", "price": 165 },
+        { "name": "Rava Onion Masala Dosa", "price": 165 },
+        { "name": "Open Butter Masala Dosa", "price": 140 },
+        { "name": "Mysore Masala Dosa", "price": 150 },
+        { "name": "Sri Udupi Special Dosa", "price": 180 },
+        { "name": "Bonda Soup", "price": 90 },
+        { "name": "Neer Dosa", "price": 120 },
+        { "name": "Khali Dosa", "price": 120 },
+        { "name": "Ghee Masala Dosa", "price": 150 },
+        { "name": "Ghee Plain Dosa", "price": 130 },
+        { "name": "Khali Butter Dosa", "price": 130 }
+      ]
+    },
+    {
+      "category": "Salads",
+      "items": [
+        { "name": "Green Salad", "price": 100 },
+        { "name": "Cucmber Salad", "price": 100 },
+        { "name": "Onion Salad", "price": 100 }
+      ]
+    },
+    {
+      "category": "Salads",
+      "items": [
+        { "name": "Masala Papad", "price": 100 },
+        { "name": "Roasted Papad", "price": 60 },
+        { "name": "Fried Papad", "price": 60 },
+        { "name": "Roasted Masala Papad", "price": 100 }        
+      ]
+    },
+    {
+      "category": "Soups",
+      "items": [
+        { "name": "Tomato Soup", "price": 120 },
+        { "name": "Cream Of Veg Soup", "price": 120 },
+        { "name": "Sweet Corn Soup", "price": 120 },
+        { "name": "Hot And Sour Soup", "price": 120 },
+        { "name": "Manchow Clear Soup", "price": 120 },
+        { "name": "Veg Clear Soup", "price": 120 },
+        { "name": "Lung Fung Soup", "price": 120 },
+        { "name": "Veg Schezwan Soup", "price": 120 },
+        { "name": "Mushroom Veg Clear Soup", "price": 120 },
+        { "name": "French Onion Soup", "price": 120 },
+        { "name": "Pineapple Soup", "price": 130 },
+        { "name": "Green Peas Soup", "price": 120 },
+        { "name": "Manchow Soup", "price": 140 },
+        { "name": "Veg Noodles Soup", "price": 130 },
+        { "name": "Lemon Coriander Soup", "price": 140 },
+        { "name": "Mushroom Soup", "price": 140 }
+      ]
+    },
+    {
+      "category": "Raitha",
+      "items": [
+        { "name": "Tomato Raitha", "price": 120 },
+        { "name": "Aloo Raitha", "price": 120 },
+        { "name": "Onion Raitha", "price": 120 },
+        { "name": "Cucumber Raitha", "price": 120 },
+        { "name": "Kashmiri Raitha", "price": 130 },
+        { "name": "Boondi Raitha", "price": 120 },
+        { "name": "Pineappale Raitha", "price": 120 }
+      ]
+    },
+    {
+      "category": "Tandoori Starters",
+      "items": [
+        { "name": "Paneer Tikka", "price": 340 },
+        { "name": "Aloo Tikka", "price": 290 },
+        { "name": "Veg Sheek Kabab", "price": 310 },
+        { "name": "Mushroom Tikka", "price": 290 },
+        { "name": "Gobi Tikka", "price": 280 },
+        { "name": "Harabhara Kabab", "price": 300 },
+        { "name": "Hariyali Paneer Tikka", "price": 350 }
+      ]
+    },
+    {
+      "category": "Chinese Starters",
+      "items": [
+        { "name": "Finger Chips", "price": 170 },
+        { "name": "Potato Twister", "price": 170 },
+        { "name": "Spring Rolls", "price": 250 },
+        { "name": "Idly Chilly", "price": 200 },
+        { "name": "Idly Fry", "price": 180 },
+        { "name": "Idly 65", "price": 200 },
+        { "name": "Gobi Manchurian", "price": 240},
+        { "name": "Gobi Chilly", "price": 240},
+        { "name": "Gobi 65", "price": 240},
+        { "name": "Gobi Pepper Dry", "price": 240},
+        { "name": "Gobi Crispy", "price": 240},
+        { "name": "Gobi Salt And Pepper", "price": 240},
+        { "name": "Babycorn Manchurian", "price": 260},
+        { "name": "Babycorn Chilly", "price": 260},
+        { "name": "Babycorn Pepper Dry", "price": 260},
+        { "name": "Babycorn 65", "price": 260},
+        { "name": "Babycorn Crispy", "price": 260},
+        { "name": "Babycorn Salt And Pepper", "price": 250},
+        { "name": "Mushroom Manchurian", "price": 260},
+        { "name": "Mushroom Pepper Dry", "price": 260},
+        { "name": "Mushroom Crispy", "price": 260},
+        { "name": "Mushroom Salt And Pepper", "price": 260},
+        { "name": "Paneer Manchurian", "price": 280},
+        { "name": "Paneer Chilly", "price": 280},
+        { "name": "Paneer 65", "price": 280},
+        { "name": "Paneer Pepper Dry", "price": 280},
+        { "name": "Paneer Crispy", "price": 280},
+        { "name": "Paneer Salt And Pepper", "price": 280},
+        { "name": "Paneer Satay", "price": 280},
+        { "name": "Veg Ball Manchurian", "price": 250},
+        { "name": "Spanish Manchurian", "price": 250},
+        { "name": "Mushroom Kabab", "price": 230},
+        { "name": "American Corn Manchurian", "price": 250},
+        { "name": "American Corn Pepper Dry", "price": 250},
+        { "name": "American Corn Crispy", "price": 250},
+        { "name": "American Corn Salt And Pepper", "price": 250},
+        { "name": "Lemon Paneer", "price": 250},
+        { "name": "Golden Fridbabycorn", "price": 250},
+        { "name": "Mushroom Chilly", "price": 250},
+        { "name": "Baby Corn Lollypop", "price": 260},
+        { "name": "American Corn Manchurian", "price": 250},
+        { "name": "American Corn Pepper Dry", "price": 250},
+        { "name": "American Corn Crispy", "price": 250},
+        { "name": "American Corn Salt And Pepper", "price": 250},
+        { "name": "Paneer Kabab", "price": 250},
+        { "name": "Babycorn Chilly Gravy", "price": 260},
+        { "name": "Paneer Chilly Gravy", "price": 280},
+        { "name": "Mushroom Chilly Gravy", "price": 260},
+        { "name": "Panner Solye", "price": 280},
+        { "name": "Gobi Chilly Gravy", "price": 250},
+        { "name": "Babycorn Manchurian Gravy", "price": 250},
+        { "name": "Paneer Manchurian Gravy", "price": 280},
+        { "name": "Mushroom Chilly Gravy", "price": 260},
+        { "name": "Mushroom Manchurian Gravy", "price": 260}
+      ]
+    },
+    {
+      "category": "Indian Breads",
+      "items": [
+        { "name": "Roti", "price": 60},
+        { "name": "Khulcha", "price": 70},
+        { "name": "Naan", "price": 75},
+        { "name": "Butter Roti", "price": 75},
+        { "name": "Butter Naan", "price": 85},
+        { "name": "Butter Kulcha", "price": 80},
+        { "name": "Lacha Parota", "price": 85},
+        { "name": "Masala Naan", "price": 100},
+        { "name": "Aloo Parota", "price": 130},
+        { "name": "Kashmiri Naan", "price": 110},
+        { "name": "Stuffed Kulcha", "price": 140},
+        { "name": "Meti Roti", "price": 70},
+        { "name": "Garlic Naan", "price": 80},
+        { "name": "Pudina Roti", "price": 70},
+        { "name": "Meti Parota", "price": 100},
+        { "name": "Channa Batura", "price": 180},
+        { "name": "Batura", "price": 100},
+        { "name": "Butter Garlic Naan", "price": 90 },
+        { "name": "Masala Khulcha", "price": 110 },
+        { "name": "Chole Batoora", "price": 180 }
+      ]
+    },
+    {
+      "category": "Main Course",
+      "items": [
+        { "name": "Dal Fry", "price": 240 },
+        { "name": "Dal Tadka", "price": 250 },
+        { "name": "Dal Punjabi", "price": 250 },
+        { "name": "Dal Makhani", "price": 260 },
+        { "name": "Channa Paneer", "price": 280 },
+        { "name": "Aloo Channa", "price": 260 },
+        { "name": "Aloo Palak", "price": 260 },
+        { "name": "Corn Palak", "price": 260 },
+        { "name": "Dal Palak", "price": 260 },
+        { "name": "Mushroom Palak", "price": 270 },
+        { "name": "Palak Paneer", "price": 280 },
+        { "name": "Babycorn Masala", "price": 280 },
+        { "name": "Babycorn Mushroom Masala", "price": 280 },
+        { "name": "Babycorn Paneer Masala", "price": 290 },
+        { "name": "Babycorn Mutter Masala", "price": 280 },
+        { "name": "Babycorn Green Masala", "price": 280 },
+        { "name": "Veg Hyderabadi", "price": 280 },
+        { "name": "Paneer Hyderabadi", "price": 280 },
+        { "name": "Mushroom Hyderabadi", "price": 270 },
+        { "name": "Malia Koftha", "price": 280 },
+        { "name": "Veg Koftha", "price": 270 },
+        { "name": "Nargis Koftha", "price": 280 },
+        { "name": "Paneer Koftha", "price": 290 },
+        { "name": "Paneer Shai Kurma", "price": 290 },
+        { "name": "Paneer Peshawri", "price": 290 },
+        { "name": "Paneer Butter Masala", "price": 300 },
+        { "name": "Paneer Gutchi", "price": 300 },
+        { "name": "Paneer Mumtaz", "price": 340 },
+        { "name": "Paneer Rani Pasand", "price": 340 },
+        { "name": "Paneer Tawa Subji", "price": 320 },
+        { "name": "Paneer Tikka Masala", "price": 320 },
+        { "name": "Mix Tawa Subji", "price": 280 },
+        { "name": "Mix Veg Curry", "price": 280 },
+        { "name": "Veg Hariyali Masala", "price": 290 },
+        { "name": "Veg Pepper Masala", "price": 290 },
+        { "name": "Veg Kolhapuri", "price": 280 },
+        { "name": "Veg Do Pyaza", "price": 280 },
+        { "name": "Veg Shahi Kurma", "price": 280 },
+        { "name": "Veg Patiyali", "price": 320 },
+        { "name": "Dum Aloo", "price": 280 },
+        { "name": "Green Peas Masala", "price": 260 },
+        { "name": "Meti Hariyali Masala", "price": 280 },
+        { "name": "Kaju Masala", "price": 300 },
+        { "name": "Stuffed Capcicum", "price": 260 },
+        { "name": "Capsicum Masala", "price": 260 },
+        { "name": "Malai Mutter Masala", "price": 280 },
+        { "name": "Malai Methi Mutter", "price": 280 },
+        { "name": "Gobi Masala", "price": 260 },
+        { "name": "Navarathna Kurma", "price": 300 },
+        { "name": "U FH Special Curry", "price": 340 },
+        { "name": "Kadai Gobi Mutter", "price": 280 },
+        { "name": "Kadai Veg", "price": 270 },
+        { "name": "Kadai Mushroom", "price": 280 },
+        { "name": "Kadai Paneer", "price": 290 },
+        { "name": "Kadai Babycorn", "price": 270 },
+        { "name": "Kadai Kolhapuri", "price": 290 },
+        { "name": "Kadai Kaju Masala", "price": 320 },
+        { "name": "Paneer Burji", "price": 300 },
+        { "name": "Plain Palak Masala", "price": 250 },
+        { "name": "Veg Kurma", "price": 260 },
+        { "name": "Veg Handi Curry", "price": 260 },
+        { "name": "Mushroom Masala", "price": 270 },
+        { "name": "Kaju Paneer Masala", "price": 340 },
+        { "name": "Allo Jeera Dry", "price": 240 },
+        { "name": "Paneer Makhanvala", "price": 350 },
+        { "name": "Paneer Mutter", "price": 300 },
+        { "name": "Channa Masala", "price": 200 },
+        { "name": "Paneer Kurma", "price": 280 },
+        { "name": "Hariyali Mushroom", "price": 280 },
+        { "name": "Aloo Mutter", "price": 260 },
+        { "name": "Aloo Gobi Masala", "price": 240 },
+        { "name": "Dal Kollapuri", "price": 290 },
+        { "name": "Paneer Parota", "price": 150 }
+      ]
+    },
+    {
+      "category": "Basumathi Special",
+      "items": [
+        { "name": "STEAM RICE", "price": 160 },
+        { "name": "Veg Palav", "price": 240 },
+        { "name": "Peas Palav", "price": 250 },
+        { "name": "Shajahani Palav", "price": 270 },
+        { "name": "Kashmiri Palav", "price": 270 },
+        { "name": "Palak Rice", "price": 240 },
+        { "name": "Ghee Rice", "price": 260 },
+        { "name": "Jeera Rice", "price": 250 },
+        { "name": "Dhal Khichidi", "price": 240 },
+        { "name": "Veg Biriyani", "price": 250 },
+        { "name": "Mughalai Biriyani", "price": 260 },
+        { "name": "Hyderabadi Biriyani", "price": 270 },
+        { "name": "Veg Handi Biriyani", "price": 270 },
+        { "name": "Palak Khichidi", "price": 240 },
+        { "name": "Mushroom Kabab Biriyani", "price": 280 },
+        { "name": "Paneer Kabab Biriyani", "price": 280 },
+        { "name": "Kaju Mutter Palav", "price": 290 },
+        { "name": "Babycorn Biriyani", "price": 270 },
+        { "name": "Paneer Biriyani", "price": 260 },
+        { "name": "Aloo Biriyanj", "price": 220 },
+        { "name": "Mushroom Biriyani", "price": 250 },
+        { "name": "Kaju Mutter Biriyani", "price": 300 },
+        { "name": "Cheese Tawa Pulay", "price": 260 }
+      ]
+    },
+    {
+      "category": "Meals",
+      "items": [
+        { "name": "South Spl Meals", "price": 260 },
+        { "name": "North Spl Indian Meals", "price": 350 },
+        { "name": "Curd Rice", "price": 130 },
+        { "name": "Fride Rice Combo", "price": 250 },
+        { "name": "Noddles Combo", "price": 250 },
+        { "name": "Ghee Rice Combo", "price": 250 },
+        { "name": "Jeera Rice Combo", "price": 250 },
+        { "name": "Biriyani Combo", "price": 250 },
+        { "name": "Chinise Spl Combo", "price": 250 }
+      ]
+    },
+    {
+      "category": "Fried Rice",
+      "items": [
+        { "name": "Peking Fried Rice", "price": 230 },
+        { "name": "Veg Fried Rice", "price": 240 },
+        { "name": "Paneer Fried Rice", "price": 270 },
+        { "name": "Mushroom Fried Rice", "price": 260 },
+        { "name": "Schezwan Fried Rice", "price": 260 },
+        { "name": "Combination Fried Rice", "price": 290 },
+        { "name": "Ginger Garlic Fried Rice", "price": 270 },
+        { "name": "Schezwan Paneer Fried Rice", "price": 280 },
+        { "name": "Schezwan Mushroom Fried Rice", "price": 280 },
+        { "name": "Schezwan Babycorn Fried Rice", "price": 280 },
+        { "name": "Singapore Fried Rice", "price": 260 },
+        { "name": "Babycorn Fride Rice", "price": 240 },
+        { "name": "Chowmin Fried rice", "price": 250 },
+        { "name": "Gobi Fride rice", "price": 240 },
+        { "name": "Manchow Fried rice", "price": 240 }
+      ]
+    },
+    {
+      "category": "Chopsy",
+      "items": [
+        { "name": "Veg Chinese Chopsy", "price": 300 },
+        { "name": "Veg Ameerican Chopsy", "price": 300 }
+      ]
+    },
+    {
+      "category": "Sandwich",
+      "items": [
+        { "name": "Bread Butter Toast", "price": 100 },
+        { "name": "Bread Butter Jam", "price": 100 },
+        { "name": "Bread Butter Gulkand", "price": 100 },
+        { "name": "Sri Udupi Special Sandwich", "price": 170 },
+        { "name": "Veg Grill Sandwich", "price": 140 },
+        { "name": "Veg Cheese Grill Sandwich", "price": 160 },
+        { "name": "Cheese Toast Grill Sandwich", "price": 160 },
+        { "name": "Veg Paneer Grill Sandwich", "price": 160 },
+        { "name": "Paneer Taost Grill Sandwich", "price": 160 },
+        { "name": "Veg Cheese Paneer Grill Sandwich", "price": 180 },
+        { "name": "Veg Mushroom Grill Sandwich", "price": 170 }
+      ]
+    },
+    {
+      "category": "Ice Cream",
+      "items": [
+        { "name": "Vanilla Ice Cream", "price": 90 },
+        { "name": "Strawberry Ice Cream", "price": 90 },
+        { "name": "Chocolate Ice Cream", "price": 99 },
+        { "name": "Mango Ice Cream", "price": 99 },
+        { "name": "Pista Ice Cream", "price": 99 },
+        { "name": "Butter Scotch Ice Cream", "price": 99 },
+        { "name": "Fig And Honey Ice Cream", "price": 99 },
+        { "name": "Dry Fruit Ice Cream", "price": 100 },
+        { "name": "Black Current Ice Cream", "price": 99 }
+      ]
+    },
+    {
+      "category": "Ice Cream Shake",
+      "items": [
+        { "name": "Rose Milk", "price": 140 },
+        { "name": "Pista Shake", "price": 140 },
+        { "name": "Vanilla Shake", "price": 140 },
+        { "name": "Butter Scotch Shake", "price": 140 },
+        { "name": "Black Current Shake", "price": 140 },
+        { "name": "Sapota Shake With Ice Cream", "price": 160 },
+        { "name": "Daily Special Shakes", "price": 150 },
+        { "name": "Cold Coffee", "price": 140 },
+        { "name": "Cold Badam", "price": 140 },
+        { "name": "Mango Shake", "price": 150 },
+        { "name": "Orieo Shake", "price": 150 },
+        { "name": "Chocolate Shake", "price": 140 },
+        { "name": "Strawberry Shake", "price": 140 }
+      ]
+    },
+    {
+      "category": "Fruit Juice",
+      "items": [
+        { "name": "Mosambi Juice", "price": 120 },
+        { "name": "Orange Juice", "price": 120 },
+        { "name": "Pineapple Juice", "price": 130 },
+        { "name": "Ganga Jamuna", "price": 130 },
+        { "name": "Watermelon Juice", "price": 120 },
+        { "name": "Mango Juice", "price": 140 },
+        { "name": "Cocktail Juice", "price": 130 },
+        { "name": "Muskmelon Juice", "price": 120 },
+        { "name": "Lime Juice", "price": 80 },
+        { "name": "Pudina Lime Juice", "price": 90 },
+        { "name": "Grapes Juice", "price": 140 },
+        { "name": "Pomegranate Juice", "price": 140 },
+        { "name": "Orange Solid", "price": 150 },
+        { "name": "Mosambi Solid", "price": 150 }
+      ]
+    },
+    {
+      "category": "Fruit Shake",
+      "items": [
+        { "name": "Apple Shake", "price": 150 },
+        { "name": "Sapota Shake", "price": 150 },
+        { "name": "Pomegranate Shake", "price": 150 },
+        { "name": "Butter Fruit Shake", "price": 150 },
+        { "name": "Musk Melon Shake", "price": 150 },
+        { "name": "Banana Milkshake", "price": 130 },
+        { "name": "Mango Fruit Shake", "price": 160 },
+        { "name": "Dry Fruit Milksbake", "price": 150 },
+        { "name": "Mango Shake", "price": 150 },
+        { "name": "Orieo Shake", "price": 150 },
+        { "name": "Chocolate Shake", "price": 140 },
+        { "name": "Strawberry Shake", "price": 140 }
+      ]
+    },
+    {
+      "category": "Fruit Juice",
+      "items": [
+        { "name": "Mosambi Juice", "price": 120 },
+        { "name": "Orange Juice", "price": 120 },
+        { "name": "Pineapple Juice", "price": 130 },
+        { "name": "Ganga Jamuna", "price": 130 },
+        { "name": "Watermelon Juice", "price": 120 },
+        { "name": "Mango Juice", "price": 140 },
+        { "name": "Cocktail Juice", "price": 130 },
+        { "name": "Muskmelon Juice", "price": 120 },
+        { "name": "Lime Juice", "price": 80 },
+        { "name": "Pudina Lime Juice", "price": 90 },
+        { "name": "Grapes Juice", "price": 140 },
+        { "name": "Pomegranate Juice", "price": 140 },
+        { "name": "Orange Solid", "price": 150 },
+        { "name": "Mosambi Solid", "price": 150 }
+      ]
+    },
+    {
+      "category": "Fruit Shake",
+      "items": [
+        { "name": "Apple Shake", "price": 150 },
+        { "name": "Sapota Shake", "price": 150 },
+        { "name": "Pomegranate Shake", "price": 150 },
+        { "name": "Butter Fruit Shake", "price": 150 },
+        { "name": "Musk Melon Shake", "price": 150 },
+        { "name": "Banana Milkshake", "price": 130 },
+        { "name": "Mango Fruit Shake", "price": 160 },
+        { "name": "Dry Fruit Milkshake", "price": 150 }
+      ]
+    },
+    {
+      "category": "Sweets",
+      "items": [
+        { "name": "Gulab Jamoon", "price": 40 },
+        { "name": "Rasagulla", "price": 50 },
+        { "name": "Rasmalai", "price": 60 },
+        { "name": "Champakali", "price": 70 },
+        { "name": "Cham Cham", "price": 70 },
+        { "name": "Malai Sandwich", "price": 80 },
+        { "name": "Carrot Halwa", "price": 100 },
+        { "name": "Holige", "price": 50 },
+        { "name": "Dry Jamoon", "price": 40 },
+        { "name": "Bread Halwa", "price": 70 }
+      ]
+    },
+    {
+      "category": "Special Ice Cream",
+      "items": [
+        { "name": "Gud Bud", "price": 200 },
+        { "name": "Falooda", "price": 170 },
+        { "name": "Special Falooda", "price": 180 },
+        { "name": "Banana Split", "price": 180 },
+        { "name": "Sri Udupi Food Hub Special Ice Cream", "price": 240 },
+        { "name": "Nut Sundae", "price": 200 },
+        { "name": "Vanilla Nut Sundae", "price": 200 },
+        { "name": "Chocolate Nut Sundae", "price": 210 },
+        { "name": "Raja Rani", "price": 240 },
+        { "name": "Titanic Special", "price": 240 },
+        { "name": "Honeymoon Special", "price": 240 },
+        { "name": "Fruit Sundae", "price": 220 },
+        { "name": "My Favourite", "price": 240 },
+        { "name": "Lovers Special", "price": 240 },
+        { "name": "Birthday Special", "price": 250 }
+      ]
+    },
+    {
+      "category": "Lassi",
+      "items": [
+        { "name": "Butter Milk", "price": 70 },
+        { "name": "Sweet Lassi", "price": 120 },
+        { "name": "Salt Lassi", "price": 120 },
+        { "name": "Khara Lassi", "price": 120 },
+        { "name": "Mango Lassi", "price": 130 },
+        { "name": "Dry Fruit Lassi", "price": 150 },
+        { "name": "Special Lassi", "price": 140 }
+      ]
+    },
+    {
+      "category": "Mocktail",
+      "items": [
+        { "name": "Blue Lime Juice", "price": 100 },
+        { "name": "Mocktail Juice", "price": 100 }
+      ]
+    },
+    {
+      "category": "Fruit Salad",
+      "items": [
+        { "name": "Fruit Salad", "price": 130 },
+        { "name": "Cut Fruit", "price": 120 },
+        { "name": "Fruit Salad With Jelly", "price": 140 },
+        { "name": "Fruit Salad With Ice Cream", "price": 140 },
+        { "name": "Fruit Salad With Jelly And Ice Cream", "price": 160 },
+        { "name": "Jelly With Ice Cream", "price": 130 },
+        { "name": "Fresh Mango With Ice Cream", "price": 170 }
+      ]
+    },
+    {
+      "category": "Soda",
+      "items": [
+        { "name": "Fresh Lime Soda", "price": 100 },
+        { "name": "Pudina Lime Soda", "price": 100 },
+        { "name": "Ginger Lime Soda", "price": 100 },
+        { "name": "Masaja Soda", "price": 100 }
+      ]
+    },
+    {
+      "category": "Chinese Special",
+      "items": [
+        { "name": "Veg Noodles", "price": 220 },
+        { "name": "Schezwan Noodles", "price": 230 },
+        { "name": "Mushroom Noodles", "price": 230 },
+        { "name": "Paneer Noodles", "price": 250 },
+        { "name": "Singapore Noodles", "price": 250 },
+        { "name": "Hakka Noodles", "price": 250 },
+        { "name": "Chow Mein Noodles", "price": 250 },
+        { "name": "Veg Tripple Noodles", "price": 300 },
+        { "name": "Peaking Noodles", "price": 240 }
+      ]
+    },
+    {
+      "category": "Chats",
+      "items": [
+        { "name": "Masala Puri", "price": 90 },
+        { "name": "Pani Puri", "price": 90 },
+        { "name": "Bhel Puri", "price": 90 },
+        { "name": "Dahi Puri", "price": 100 },
+        { "name": "Sev Puri", "price": 100 },
+        { "name": "Special Sev", "price": 110 },
+        { "name": "Dry Bhel Puri", "price": 100 },
+        { "name": "Special Bhel", "price": 120 },
+        { "name": "Bhel Masala Chat", "price": 100 },
+        { "name": "Corn Bhel Puri", "price": 100 },
+        { "name": "All Mix Chat", "price": 120 },
+        { "name": "Tomato Chat", "price": 90 },
+        { "name": "Boondi Chat", "price": 100 },
+        { "name": "Mung Dhal Chat", "price": 100 },
+        { "name": "Nippat Chat", "price": 120 },
+        { "name": "Peanut Masala", "price": 130 },
+        { "name": "Aloo Puri", "price": 99 },
+        { "name": "Samosa Plain", "price": 45 },
+        { "name": "Samosa Chat", "price": 90 },
+        { "name": "Papdi Chat", "price": 90 },
+        { "name": "Dahi Potato", "price": 90 },
+        { "name": "Samosa Masala", "price": 100 },
+        { "name": "Dahi Chat", "price": 120 },
+        { "name": "Cucumber Chat", "price": 100 },
+        { "name": "Udupi Special Chat", "price": 120 },
+        { "name": "Vada Pav", "price": 80 },
+        { "name": "Cheese Vada Pav", "price": 100 },
+        { "name": "Dahi Samosa Chat", "price": 110 },
+        { "name": "Dahi Aloo Puri", "price": 100 },
+        { "name": "Dahi Paapdi", "price": 110 },
+        { "name": "Dahi Boondi Puri Chat", "price": 110 }
+      ]
+    },
+    {
+      "category": "Tawa Ka Kamal",
+      "items": [
+        { "name": "Pav Bhaji", "price": 160 },
+        { "name": "Paneer Pav Bhaji", "price": 170 },
+        { "name": "Cheese Pav Bhaji", "price": 180 },
+        { "name": "Pav Manchurian", "price": 160 },
+        { "name": "Kadai Pav Bhaji", "price": 165 },
+        { "name": "Extra Pav", "price": 80 },
+        { "name": "Sri Udupi Special Pav Bhaji", "price": 190 },
+        { "name": "Single Vada Pav", "price": 40 },
+        { "name": "Tawa Pulav", "price": 230 },
+        { "name": "Butter Tawa Pulav", "price": 240 },
+        { "name": "Paneer Tawa Pulav", "price": 250 }
+      ]
+    }
+  ]

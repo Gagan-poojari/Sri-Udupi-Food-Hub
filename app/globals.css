@@ -1,26 +1,129 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+
+/* 
+color pallete #1
+1.beige: #cec284 
+2.cream: #f2e8d5
+3.green: #547254
+4.  red: #a52a2a
+5.black: #000000
+*/
+ html{
+  scroll-behavior: smooth;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+@font-face {
+  font-family: 'Philosopher';
+  src: url('/fonts/Philosopher/Philosopher-Regular.ttf') format('truetype'); 
+  font-weight: normal;
+  font-style: normal;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Philosopher';
+  background-color: #ffffff;
+}
+
+
+.smooth{
+  transition: all ease-in-out 0.5s;
+}
+.smooth2{
+  transition: all ease-in-out 0.35s;
+}
+
+.vignette::after{
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: #0000004f;
+    box-shadow: inset 0 0 50vw rgb(0, 0, 0);
+}
+
+.navshad{
+  box-shadow: 0px 0px 5px 2px #000000bc;
+}
+.crdshdw:hover{
+  box-shadow: 0px 0px 7px 2px #ffffff;
+}
+
+.befaft::after{
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 0%;
+  height: 2px;
+  background: #ffffff;
+}
+
+.befaft2::after{
+  background: #cec284;
+}
+
+.befaft:hover::after{
+  animation: wztoh 0.3s ease-in-out 1;
+  width: 100%;
+}
+
+.befaft:active:after{
+  background: #ffffff;
+}
+
+@keyframes wztoh {
+  from {
+      width: 0;
+  }
+  to {
+      width: 100%;
+  }
+}
+
+.asushad{
+  box-shadow: 0px 0px 7px 2px #0000007b;
+}
+
+/* GLOBAL SCROLLBAR STYLING */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: rgba(206, 194, 132, 0.6); /* Gold toned */
+  border-radius: 10px;
+  border: 2px solid transparent;
+  background-clip: content-box;
+  transition: background-color 0.3s ease;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: rgba(206, 194, 132, 0.9);
+}
+
+/* Firefox scrollbar (limited control) */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(206, 194, 132, 0.6) transparent;
+}
+
+/* globals.css or inside a style tag */
+.leaflet-marker-icon .pulse {
+  animation: pulse 2s infinite;
+  filter: drop-shadow(0 0 8px rgba(59, 130, 246, 0.8));
+}
+@keyframes pulse {
+  0% { transform: scale(1); opacity: 1; }
+  50% { transform: scale(1.2); opacity: 0.6; }
+  100% { transform: scale(1); opacity: 1; }
 }
