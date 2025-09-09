@@ -1,0 +1,2532 @@
+[
+  {
+    "category": "Hot Beverages",
+    "items": [
+      {
+        "name": "Tea",
+        "price": 40,
+        "image": "https://images.pexels.com/photos/10258209/pexels-photo-10258209.jpeg"
+      },
+      {
+        "name": "Ginger Coffee / Tea",
+        "price": 40,
+        "image": "https://images.pexels.com/photos/20270270/pexels-photo-20270270.jpeg"
+      },
+      {
+        "name": "Lemon Tea",
+        "price": 40,
+        "image": "https://images.pexels.com/photos/1772124/pexels-photo-1772124.jpeg"
+      },
+      {
+        "name": "Green Tea",
+        "price": 45,
+        "image": "https://images.pexels.com/photos/3123792/pexels-photo-3123792.jpeg"
+      },
+      {
+        "name": "Badam Milk",
+        "price": 45,
+        "image": "https://images.pexels.com/photos/302896/pexels-photo-302896.jpeg"
+      },
+      {
+        "name": "Horlicks",
+        "price": 50,
+        "image": "https://images.pexels.com/photos/3556686/pexels-photo-3556686.jpeg"
+      },
+      {
+        "name": "Bournvita",
+        "price": 50,
+        "image": "https://images.pexels.com/photos/7488733/pexels-photo-7488733.jpeg"
+      },
+      {
+        "name": "Black Coffe",
+        "price": 40,
+        "image": "https://images.pexels.com/photos/4264049/pexels-photo-4264049.jpeg"
+      },
+      {
+        "name": "Coffee",
+        "price": 40,
+        "image": "https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg"
+      },
+      {
+        "name": "Boost",
+        "price": 50,
+        "image": "https://images.pexels.com/photos/33272609/pexels-photo-33272609.jpeg"
+      },
+      {
+        "name": "Milk",
+        "price": 40,
+        "image": "https://images.pexels.com/photos/2198626/pexels-photo-2198626.jpeg"
+      }
+    ]
+  },
+  {
+    "category": "Breakfast",
+    "items": [
+      {
+        "name": "Idli (2no)",
+        "price": 80,
+        "image": "https://images.pexels.com/photos/31199041/pexels-photo-31199041.jpeg"
+      },
+      {
+        "name": "Idli Vada (single)",
+        "price": 90,
+        "image": "https://images.pexels.com/photos/8312083/pexels-photo-8312083.jpeg"
+      },
+      {
+        "name": "Vada (1 No)",
+        "price": 50,
+        "image": "https://images.pexels.com/photos/21751212/pexels-photo-21751212.jpeg"
+      },
+      {
+        "name": "Idli(2) Vada(1)",
+        "price": 120,
+        "image": "https://images.pexels.com/photos/8312083/pexels-photo-8312083.jpeg"
+      },
+      {
+        "name": "Rava Idli",
+        "price": 70,
+        "image": "https://images.pexels.com/photos/4331488/pexels-photo-4331488.jpeg"
+      },
+      {
+        "name": "Khara Bath",
+        "price": 60,
+        "image": "https://images.pexels.com/photos/12643933/pexels-photo-12643933.jpeg"
+      }, 
+      {
+        "name": "Kesari Bath",
+        "price": 60,
+        "image": "https://images.pexels.com/photos/1117862/pexels-photo-1117862.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Chow Chow Bath",
+        "price": 120,
+        "image": "https://images.pexels.com/photos/8743926/pexels-photo-8743926.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Rice Bath",
+        "price": 110,
+        "image": "https://images.pexels.com/photos/25451535/pexels-photo-25451535.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Poori Saagu",
+        "price": 120,
+        "image": "https://images.pexels.com/photos/1117862/pexels-photo-1117862.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Bisi Bele Bath",
+        "price": 120,
+        "image": "https://images.pexels.com/photos/1117862/pexels-photo-1117862.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Pongal",
+        "price": 100,
+        "image": "https://images.pexels.com/photos/1117862/pexels-photo-1117862.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Curd Vada",
+        "price": 70,
+        "image": "https://images.pexels.com/photos/1117862/pexels-photo-1117862.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Mangalore Bajji",
+        "price": 80,
+        "image": "https://images.pexels.com/photos/1117862/pexels-photo-1117862.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Pakoda",
+        "price": 80,
+        "image": "https://images.pexels.com/photos/1117862/pexels-photo-1117862.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Paddu",
+        "price": 100,
+        "image": "https://images.pexels.com/photos/1117862/pexels-photo-1117862.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Idli [3 Nons]",
+        "price": 100,
+        "image": "https://images.pexels.com/photos/25451535/pexels-photo-25451535.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Tifen Combo With Coffe / Tea",
+        "price": 220,
+        "image": "https://images.pexels.com/photos/1439320/pexels-photo-1439320.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Single Idli",
+        "price": 45,
+        "image": "https://images.pexels.com/photos/25451535/pexels-photo-25451535.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Lemon Rice",
+        "price": 100,
+        "image": "https://images.pexels.com/photos/25451535/pexels-photo-25451535.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Bajji 4 Pic",
+        "price": 70,
+        "image": "https://images.pexels.com/photos/1117862/pexels-photo-1117862.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Rava Vada",
+        "price": 90,
+        "image": "https://images.pexels.com/photos/1117862/pexels-photo-1117862.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Mini Idli",
+        "price": 90,
+        "image": "https://images.pexels.com/photos/25451535/pexels-photo-25451535.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Thate Idli",
+        "price": 60,
+        "image": "https://images.pexels.com/photos/25451535/pexels-photo-25451535.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Ghee Pudi Tatte Idli",
+        "price": 80,
+        "image": "https://images.pexels.com/photos/25451535/pexels-photo-25451535.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Buns (2 Pcs)",
+        "price": 100,
+        "image": "https://images.pexels.com/photos/1117862/pexels-photo-1117862.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Mallige Idly",
+        "price": 80,
+        "image": "https://images.pexels.com/photos/1117862/pexels-photo-1117862.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Ghee Pudi Dosa",
+        "price": 150,
+        "image": "https://images.pexels.com/photos/28107046/pexels-photo-28107046.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Single Bonda Soup",
+        "price": 50,
+        "image": "https://images.pexels.com/photos/1117862/pexels-photo-1117862.jpeg?auto=compress&cs=tinysrgb&h=350"
+      }
+    ]
+  },
+  {
+    "category": "Dosa",
+    "items": [
+      {
+        "name": "Plain Dosa",
+        "price": 100,
+        "image": "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Butter Plain Dosa",
+        "price": 125,
+        "image": "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Paneer Plain Dosa",
+        "price": 140,
+        "image": "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Cheese Plain Dosa",
+        "price": 140,
+        "image": "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Paper Plain Dosa",
+        "price": 140,
+        "image": "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Masala Dosa",
+        "price": 120,
+        "image": "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Butter Masala Dosa",
+        "price": 135,
+        "image": "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Paneer Masala Dosa",
+        "price": 150,
+        "image": "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Cheese Masala Dosa",
+        "price": 150,
+        "image": "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Paper Masala Dosa",
+        "price": 160,
+        "image": "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Set Dosa",
+        "price": 150,
+        "image": "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Onion Utthappa",
+        "price": 150,
+        "image": "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Rava Dosa",
+        "price": 150,
+        "image": "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Rava Onion Dosa",
+        "price": 160,
+        "image": "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Rava Masala Dosa",
+        "price": 165,
+        "image": "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Rava Onion Masala Dosa",
+        "price": 165,
+        "image": "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Open Butter Masala Dosa",
+        "price": 140,
+        "image": "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Mysore Masala Dosa",
+        "price": 150,
+        "image": "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Sri Udupi Special Dosa",
+        "price": 180,
+        "image": "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Bonda Soup",
+        "price": 90,
+        "image": "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Neer Dosa",
+        "price": 120,
+        "image": "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Khali Dosa",
+        "price": 120,
+        "image": "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Ghee Masala Dosa",
+        "price": 150,
+        "image": "https://images.pexels.com/photos/28107046/pexels-photo-28107046.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Ghee Plain Dosa",
+        "price": 130,
+        "image": "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Khali Butter Dosa",
+        "price": 130,
+        "image": "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&h=350"
+      }
+    ]
+  },
+  {
+    "category": "Salads",
+    "items": [
+      {
+        "name": "Green Salad",
+        "price": 100,
+        "image": "https://images.pexels.com/photos/6608617/pexels-photo-6608617.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Cucmber Salad",
+        "price": 100,
+        "image": "https://images.pexels.com/photos/958547/pexels-photo-958547.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Onion Salad",
+        "price": 100,
+        "image": "https://images.pexels.com/photos/3975044/pexels-photo-3975044.jpeg?auto=compress&cs=tinysrgb&h=350"
+      }
+    ]
+  },
+  {
+    "category": "Salads",
+    "items": [
+      {
+        "name": "Masala Papad",
+        "price": 100,
+        "image": "https://images.pexels.com/photos/2814828/pexels-photo-2814828.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Roasted Papad",
+        "price": 60,
+        "image": "https://images.pexels.com/photos/8696540/pexels-photo-8696540.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Fried Papad",
+        "price": 60,
+        "image": "https://images.pexels.com/photos/958547/pexels-photo-958547.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Roasted Masala Papad",
+        "price": 100,
+        "image": "https://images.pexels.com/photos/8696540/pexels-photo-8696540.jpeg?auto=compress&cs=tinysrgb&h=350"
+      }
+    ]
+  },
+  {
+    "category": "Soups",
+    "items": [
+      {
+        "name": "Tomato Soup",
+        "price": 120,
+        "image": "https://images.pexels.com/photos/3832339/pexels-photo-3832339.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Cream Of Veg Soup",
+        "price": 120,
+        "image": "https://images.pexels.com/photos/27645337/pexels-photo-27645337.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Sweet Corn Soup",
+        "price": 120,
+        "image": "https://images.pexels.com/photos/16068663/pexels-photo-16068663.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Hot And Sour Soup",
+        "price": 120,
+        "image": "https://images.pexels.com/photos/3038065/pexels-photo-3038065.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Manchow Clear Soup",
+        "price": 120,
+        "image": "https://images.pexels.com/photos/10508208/pexels-photo-10508208.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Veg Clear Soup",
+        "price": 120,
+        "image": "https://images.pexels.com/photos/10508208/pexels-photo-10508208.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Lung Fung Soup",
+        "price": 120,
+        "image": "https://images.pexels.com/photos/10508208/pexels-photo-10508208.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Veg Schezwan Soup",
+        "price": 120,
+        "image": "https://images.pexels.com/photos/10508208/pexels-photo-10508208.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Mushroom Veg Clear Soup",
+        "price": 120,
+        "image": "https://images.pexels.com/photos/1872882/pexels-photo-1872882.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "French Onion Soup",
+        "price": 120,
+        "image": "https://images.pexels.com/photos/18698241/pexels-photo-18698241.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Pineapple Soup",
+        "price": 130,
+        "image": "https://images.pexels.com/photos/10508208/pexels-photo-10508208.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Green Peas Soup",
+        "price": 120,
+        "image": "https://images.pexels.com/photos/33111650/pexels-photo-33111650.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Manchow Soup",
+        "price": 140,
+        "image": "https://images.pexels.com/photos/10508208/pexels-photo-10508208.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Veg Noodles Soup",
+        "price": 130,
+        "image": "https://images.pexels.com/photos/5339078/pexels-photo-5339078.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Lemon Coriander Soup",
+        "price": 140,
+        "image": "https://images.pexels.com/photos/9792458/pexels-photo-9792458.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Mushroom Soup",
+        "price": 140,
+        "image": "https://images.pexels.com/photos/1872882/pexels-photo-1872882.jpeg?auto=compress&cs=tinysrgb&h=350"
+      }
+    ]
+  },
+  {
+    "category": "Raitha",
+    "items": [
+      {
+        "name": "Tomato Raitha",
+        "price": 120,
+        "image": "https://images.pexels.com/photos/14731637/pexels-photo-14731637.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Aloo Raitha",
+        "price": 120,
+        "image": "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Onion Raitha",
+        "price": 120,
+        "image": "https://images.pexels.com/photos/14731637/pexels-photo-14731637.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Cucumber Raitha",
+        "price": 120,
+        "image": "https://images.pexels.com/photos/8625953/pexels-photo-8625953.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Kashmiri Raitha",
+        "price": 130,
+        "image": "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Boondi Raitha",
+        "price": 120,
+        "image": "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Pineappale Raitha",
+        "price": 120,
+        "image": "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&h=350"
+      }
+    ]
+  },
+  {
+    "category": "Tandoori Starters",
+    "items": [
+      {
+        "name": "Paneer Tikka",
+        "price": 340,
+        "image": "https://images.pexels.com/photos/3928854/pexels-photo-3928854.png?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Aloo Tikka",
+        "price": 290,
+        "image": "https://images.pexels.com/photos/1117862/pexels-photo-1117862.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Veg Sheek Kabab",
+        "price": 310,
+        "image": "https://images.pexels.com/photos/1117862/pexels-photo-1117862.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Mushroom Tikka",
+        "price": 290,
+        "image": "https://images.pexels.com/photos/1117862/pexels-photo-1117862.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Gobi Tikka",
+        "price": 280,
+        "image": "https://images.pexels.com/photos/1117862/pexels-photo-1117862.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Harabhara Kabab",
+        "price": 300,
+        "image": "https://images.pexels.com/photos/1117862/pexels-photo-1117862.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Hariyali Paneer Tikka",
+        "price": 350,
+        "image": "https://images.pexels.com/photos/3928854/pexels-photo-3928854.png?auto=compress&cs=tinysrgb&h=350"
+      }
+    ]
+  },
+  {
+    "category": "Chinese Starters",
+    "items": [
+      {
+        "name": "Finger Chips",
+        "price": 170,
+        "image": "https://images.pexels.com/photos/28674530/pexels-photo-28674530.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Potato Twister",
+        "price": 170,
+        "image": "https://images.pexels.com/photos/4611424/pexels-photo-4611424.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Spring Rolls",
+        "price": 250,
+        "image": "https://images.pexels.com/photos/28674530/pexels-photo-28674530.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Idly Chilly",
+        "price": 200,
+        "image": "https://images.pexels.com/photos/28674530/pexels-photo-28674530.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Idly Fry",
+        "price": 180,
+        "image": "https://images.pexels.com/photos/31783383/pexels-photo-31783383.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Idly 65",
+        "price": 200,
+        "image": "https://images.pexels.com/photos/28674530/pexels-photo-28674530.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Gobi Manchurian",
+        "price": 240,
+        "image": "https://images.pexels.com/photos/28674530/pexels-photo-28674530.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Gobi Chilly",
+        "price": 240,
+        "image": "https://images.pexels.com/photos/28674530/pexels-photo-28674530.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Gobi 65",
+        "price": 240,
+        "image": "https://images.pexels.com/photos/28674530/pexels-photo-28674530.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Gobi Pepper Dry",
+        "price": 240,
+        "image": "https://images.pexels.com/photos/29346015/pexels-photo-29346015.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Gobi Crispy",
+        "price": 240,
+        "image": "https://images.pexels.com/photos/28674530/pexels-photo-28674530.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Gobi Salt And Pepper",
+        "price": 240,
+        "image": "https://images.pexels.com/photos/5395182/pexels-photo-5395182.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Babycorn Manchurian",
+        "price": 260,
+        "image": "https://images.pexels.com/photos/28674530/pexels-photo-28674530.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Babycorn Chilly",
+        "price": 260,
+        "image": "https://images.pexels.com/photos/28674530/pexels-photo-28674530.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Babycorn Pepper Dry",
+        "price": 260,
+        "image": "https://images.pexels.com/photos/29346015/pexels-photo-29346015.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Babycorn 65",
+        "price": 260,
+        "image": "https://images.pexels.com/photos/28674530/pexels-photo-28674530.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Babycorn Crispy",
+        "price": 260,
+        "image": "https://images.pexels.com/photos/28674530/pexels-photo-28674530.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Babycorn Salt And Pepper",
+        "price": 250,
+        "image": "https://images.pexels.com/photos/5395182/pexels-photo-5395182.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Mushroom Manchurian",
+        "price": 260,
+        "image": "https://images.pexels.com/photos/28674530/pexels-photo-28674530.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Mushroom Pepper Dry",
+        "price": 260,
+        "image": "https://images.pexels.com/photos/28674530/pexels-photo-28674530.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Mushroom Crispy",
+        "price": 260,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Mushroom Salt And Pepper",
+        "price": 260,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Paneer Manchurian",
+        "price": 280,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Paneer Chilly",
+        "price": 280,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Paneer 65",
+        "price": 280,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Paneer Pepper Dry",
+        "price": 280,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Paneer Crispy",
+        "price": 280,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Paneer Salt And Pepper",
+        "price": 280,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Paneer Satay",
+        "price": 280,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Veg Ball Manchurian",
+        "price": 250,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Spanish Manchurian",
+        "price": 250,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Mushroom Kabab",
+        "price": 230,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "American Corn Manchurian",
+        "price": 250,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "American Corn Pepper Dry",
+        "price": 250,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "American Corn Crispy",
+        "price": 250,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "American Corn Salt And Pepper",
+        "price": 250,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Lemon Paneer",
+        "price": 250,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Golden Fridbabycorn",
+        "price": 250,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Mushroom Chilly",
+        "price": 250,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Baby Corn Lollypop",
+        "price": 260,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "American Corn Manchurian",
+        "price": 250,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "American Corn Pepper Dry",
+        "price": 250,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "American Corn Crispy",
+        "price": 250,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "American Corn Salt And Pepper",
+        "price": 250,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Paneer Kabab",
+        "price": 250,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Babycorn Chilly Gravy",
+        "price": 260,
+        "image": "https://images.pexels.com/photos/28674530/pexels-photo-28674530.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Paneer Chilly Gravy",
+        "price": 280,
+        "image": "https://images.pexels.com/photos/31783383/pexels-photo-31783383.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Mushroom Chilly Gravy",
+        "price": 260,
+        "image": "https://images.pexels.com/photos/28674530/pexels-photo-28674530.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Panner Solye",
+        "price": 280,
+        "image": "https://images.pexels.com/photos/31783383/pexels-photo-31783383.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Gobi Chilly Gravy",
+        "price": 250,
+        "image": "https://images.pexels.com/photos/28674530/pexels-photo-28674530.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Babycorn Manchurian Gravy",
+        "price": 250,
+        "image": "https://images.pexels.com/photos/28674530/pexels-photo-28674530.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Paneer Manchurian Gravy",
+        "price": 280,
+        "image": "https://images.pexels.com/photos/31783383/pexels-photo-31783383.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Mushroom Chilly Gravy",
+        "price": 260,
+        "image": "https://images.pexels.com/photos/28674530/pexels-photo-28674530.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Mushroom Manchurian Gravy",
+        "price": 260,
+        "image": "https://images.pexels.com/photos/28674530/pexels-photo-28674530.jpeg?auto=compress&cs=tinysrgb&h=350"
+      }
+    ]
+  },
+  {
+    "category": "Indian Breads",
+    "items": [
+      {
+        "name": "Roti",
+        "price": 60,
+        "image": "https://images.pexels.com/photos/1117862/pexels-photo-1117862.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Khulcha",
+        "price": 70,
+        "image": "https://images.pexels.com/photos/1117862/pexels-photo-1117862.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Naan",
+        "price": 75,
+        "image": "https://images.pexels.com/photos/1117862/pexels-photo-1117862.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Butter Roti",
+        "price": 75,
+        "image": "https://images.pexels.com/photos/1117862/pexels-photo-1117862.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Butter Naan",
+        "price": 85,
+        "image": "https://images.pexels.com/photos/1117862/pexels-photo-1117862.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Butter Kulcha",
+        "price": 80,
+        "image": "https://images.pexels.com/photos/1117862/pexels-photo-1117862.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Lacha Parota",
+        "price": 85,
+        "image": "https://images.pexels.com/photos/1117862/pexels-photo-1117862.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Masala Naan",
+        "price": 100,
+        "image": "https://images.pexels.com/photos/1117862/pexels-photo-1117862.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Aloo Parota",
+        "price": 130,
+        "image": "https://images.pexels.com/photos/1117862/pexels-photo-1117862.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Kashmiri Naan",
+        "price": 110,
+        "image": "https://images.pexels.com/photos/1117862/pexels-photo-1117862.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Stuffed Kulcha",
+        "price": 140,
+        "image": "https://images.pexels.com/photos/1117862/pexels-photo-1117862.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Meti Roti",
+        "price": 70,
+        "image": "https://images.pexels.com/photos/1117862/pexels-photo-1117862.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Garlic Naan",
+        "price": 80,
+        "image": "https://images.pexels.com/photos/1117862/pexels-photo-1117862.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Pudina Roti",
+        "price": 70,
+        "image": "https://images.pexels.com/photos/1117862/pexels-photo-1117862.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Meti Parota",
+        "price": 100,
+        "image": "https://images.pexels.com/photos/1117862/pexels-photo-1117862.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Channa Batura",
+        "price": 180,
+        "image": "https://images.pexels.com/photos/1117862/pexels-photo-1117862.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Batura",
+        "price": 100,
+        "image": "https://images.pexels.com/photos/1117862/pexels-photo-1117862.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Butter Garlic Naan",
+        "price": 90,
+        "image": "https://images.pexels.com/photos/1117862/pexels-photo-1117862.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Masala Khulcha",
+        "price": 110,
+        "image": "https://images.pexels.com/photos/1117862/pexels-photo-1117862.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Chole Batoora",
+        "price": 180,
+        "image": "https://images.pexels.com/photos/1117862/pexels-photo-1117862.jpeg?auto=compress&cs=tinysrgb&h=350"
+      }
+    ]
+  },
+  {
+    "category": "Main Course",
+    "items": [
+      {
+        "name": "Dal Fry",
+        "price": 240,
+        "image": "https://images.pexels.com/photos/28674547/pexels-photo-28674547.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Dal Tadka",
+        "price": 250,
+        "image": "https://images.pexels.com/photos/10296258/pexels-photo-10296258.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Dal Punjabi",
+        "price": 250,
+        "image": "https://images.pexels.com/photos/10296258/pexels-photo-10296258.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Dal Makhani",
+        "price": 260,
+        "image": "https://images.pexels.com/photos/10296258/pexels-photo-10296258.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Channa Paneer",
+        "price": 280,
+        "image": "https://images.pexels.com/photos/10296258/pexels-photo-10296258.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Aloo Channa",
+        "price": 260,
+        "image": "https://images.pexels.com/photos/10296258/pexels-photo-10296258.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Aloo Palak",
+        "price": 260,
+        "image": "https://images.pexels.com/photos/10296258/pexels-photo-10296258.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Corn Palak",
+        "price": 260,
+        "image": "https://images.pexels.com/photos/11256674/pexels-photo-11256674.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Dal Palak",
+        "price": 260,
+        "image": "https://images.pexels.com/photos/10296258/pexels-photo-10296258.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Mushroom Palak",
+        "price": 270,
+        "image": "https://images.pexels.com/photos/13312318/pexels-photo-13312318.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Palak Paneer",
+        "price": 280,
+        "image": "https://images.pexels.com/photos/10296258/pexels-photo-10296258.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Babycorn Masala",
+        "price": 280,
+        "image": "https://images.pexels.com/photos/10296258/pexels-photo-10296258.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Babycorn Mushroom Masala",
+        "price": 280,
+        "image": "https://images.pexels.com/photos/13312318/pexels-photo-13312318.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Babycorn Paneer Masala",
+        "price": 290,
+        "image": "https://images.pexels.com/photos/12737799/pexels-photo-12737799.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Babycorn Mutter Masala",
+        "price": 280,
+        "image": "https://images.pexels.com/photos/10296258/pexels-photo-10296258.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Babycorn Green Masala",
+        "price": 280,
+        "image": "https://images.pexels.com/photos/991967/pexels-photo-991967.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Veg Hyderabadi",
+        "price": 280,
+        "image": "https://images.pexels.com/photos/10296258/pexels-photo-10296258.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Paneer Hyderabadi",
+        "price": 280,
+        "image": "https://images.pexels.com/photos/10296258/pexels-photo-10296258.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Mushroom Hyderabadi",
+        "price": 270,
+        "image": "https://images.pexels.com/photos/28674530/pexels-photo-28674530.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Malia Koftha",
+        "price": 280,
+        "image": "https://images.pexels.com/photos/10296258/pexels-photo-10296258.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Veg Koftha",
+        "price": 270,
+        "image": "https://images.pexels.com/photos/10296258/pexels-photo-10296258.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Nargis Koftha",
+        "price": 280,
+        "image": "https://images.pexels.com/photos/10296258/pexels-photo-10296258.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Paneer Koftha",
+        "price": 290,
+        "image": "https://images.pexels.com/photos/10296258/pexels-photo-10296258.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Paneer Shai Kurma",
+        "price": 290,
+        "image": "https://images.pexels.com/photos/10296258/pexels-photo-10296258.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Paneer Peshawri",
+        "price": 290,
+        "image": "https://images.pexels.com/photos/10296258/pexels-photo-10296258.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Paneer Butter Masala",
+        "price": 300,
+        "image": "https://images.pexels.com/photos/8696764/pexels-photo-8696764.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Paneer Gutchi",
+        "price": 300,
+        "image": "https://images.pexels.com/photos/10296258/pexels-photo-10296258.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Paneer Mumtaz",
+        "price": 340,
+        "image": "https://images.pexels.com/photos/10296258/pexels-photo-10296258.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Paneer Rani Pasand",
+        "price": 340,
+        "image": "https://images.pexels.com/photos/10296258/pexels-photo-10296258.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Paneer Tawa Subji",
+        "price": 320,
+        "image": "https://images.pexels.com/photos/10296258/pexels-photo-10296258.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Paneer Tikka Masala",
+        "price": 320,
+        "image": "https://images.pexels.com/photos/12737799/pexels-photo-12737799.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Mix Tawa Subji",
+        "price": 280,
+        "image": "https://images.pexels.com/photos/10296258/pexels-photo-10296258.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Mix Veg Curry",
+        "price": 280,
+        "image": "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Veg Hariyali Masala",
+        "price": 290,
+        "image": "https://images.pexels.com/photos/10296258/pexels-photo-10296258.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Veg Pepper Masala",
+        "price": 290,
+        "image": "https://images.pexels.com/photos/4871274/pexels-photo-4871274.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Veg Kolhapuri",
+        "price": 280,
+        "image": "https://images.pexels.com/photos/10296258/pexels-photo-10296258.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Veg Do Pyaza",
+        "price": 280,
+        "image": "https://images.pexels.com/photos/10296258/pexels-photo-10296258.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Veg Shahi Kurma",
+        "price": 280,
+        "image": "https://images.pexels.com/photos/10296258/pexels-photo-10296258.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Veg Patiyali",
+        "price": 320,
+        "image": "https://images.pexels.com/photos/10296258/pexels-photo-10296258.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Dum Aloo",
+        "price": 280,
+        "image": "https://images.pexels.com/photos/10296258/pexels-photo-10296258.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Green Peas Masala",
+        "price": 260,
+        "image": "https://images.pexels.com/photos/991967/pexels-photo-991967.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Meti Hariyali Masala",
+        "price": 280,
+        "image": "https://images.pexels.com/photos/10296258/pexels-photo-10296258.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Kaju Masala",
+        "price": 300,
+        "image": "https://images.pexels.com/photos/10296258/pexels-photo-10296258.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Stuffed Capcicum",
+        "price": 260,
+        "image": "https://images.pexels.com/photos/9450385/pexels-photo-9450385.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Capsicum Masala",
+        "price": 260,
+        "image": "https://images.pexels.com/photos/10296258/pexels-photo-10296258.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Malai Mutter Masala",
+        "price": 280,
+        "image": "https://images.pexels.com/photos/10296258/pexels-photo-10296258.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Malai Methi Mutter",
+        "price": 280,
+        "image": "https://images.pexels.com/photos/10296258/pexels-photo-10296258.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Gobi Masala",
+        "price": 260,
+        "image": "https://images.pexels.com/photos/10296258/pexels-photo-10296258.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Navarathna Kurma",
+        "price": 300,
+        "image": "https://images.pexels.com/photos/10296258/pexels-photo-10296258.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "U FH Special Curry",
+        "price": 340,
+        "image": "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Kadai Gobi Mutter",
+        "price": 280,
+        "image": "https://images.pexels.com/photos/10296258/pexels-photo-10296258.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Kadai Veg",
+        "price": 270,
+        "image": "https://images.pexels.com/photos/10296258/pexels-photo-10296258.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Kadai Mushroom",
+        "price": 280,
+        "image": "https://images.pexels.com/photos/13312318/pexels-photo-13312318.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Kadai Paneer",
+        "price": 290,
+        "image": "https://images.pexels.com/photos/10296258/pexels-photo-10296258.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Kadai Babycorn",
+        "price": 270,
+        "image": "https://images.pexels.com/photos/10296258/pexels-photo-10296258.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Kadai Kolhapuri",
+        "price": 290,
+        "image": "https://images.pexels.com/photos/10296258/pexels-photo-10296258.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Kadai Kaju Masala",
+        "price": 320,
+        "image": "https://images.pexels.com/photos/10296258/pexels-photo-10296258.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Paneer Burji",
+        "price": 300,
+        "image": "https://images.pexels.com/photos/10296258/pexels-photo-10296258.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Plain Palak Masala",
+        "price": 250,
+        "image": "https://images.pexels.com/photos/10296258/pexels-photo-10296258.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Veg Kurma",
+        "price": 260,
+        "image": "https://images.pexels.com/photos/10296258/pexels-photo-10296258.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Veg Handi Curry",
+        "price": 260,
+        "image": "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Mushroom Masala",
+        "price": 270,
+        "image": "https://images.pexels.com/photos/13312318/pexels-photo-13312318.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Kaju Paneer Masala",
+        "price": 340,
+        "image": "https://images.pexels.com/photos/12737799/pexels-photo-12737799.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Allo Jeera Dry",
+        "price": 240,
+        "image": "https://images.pexels.com/photos/10296258/pexels-photo-10296258.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Paneer Makhanvala",
+        "price": 350,
+        "image": "https://images.pexels.com/photos/10296258/pexels-photo-10296258.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Paneer Mutter",
+        "price": 300,
+        "image": "https://images.pexels.com/photos/10296258/pexels-photo-10296258.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Channa Masala",
+        "price": 200,
+        "image": "https://images.pexels.com/photos/10296258/pexels-photo-10296258.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Paneer Kurma",
+        "price": 280,
+        "image": "https://images.pexels.com/photos/10296258/pexels-photo-10296258.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Hariyali Mushroom",
+        "price": 280,
+        "image": "https://images.pexels.com/photos/13312318/pexels-photo-13312318.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Aloo Mutter",
+        "price": 260,
+        "image": "https://images.pexels.com/photos/10296258/pexels-photo-10296258.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Aloo Gobi Masala",
+        "price": 240,
+        "image": "https://images.pexels.com/photos/10296258/pexels-photo-10296258.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Dal Kollapuri",
+        "price": 290,
+        "image": "https://images.pexels.com/photos/10296258/pexels-photo-10296258.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Paneer Parota",
+        "price": 150,
+        "image": "https://images.pexels.com/photos/10296258/pexels-photo-10296258.jpeg?auto=compress&cs=tinysrgb&h=350"
+      }
+    ]
+  },
+  {
+    "category": "Basumathi Special",
+    "items": [
+      {
+        "name": "STEAM RICE",
+        "price": 160,
+        "image": "https://images.pexels.com/photos/4910316/pexels-photo-4910316.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Veg Palav",
+        "price": 240,
+        "image": "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Peas Palav",
+        "price": 250,
+        "image": "https://images.pexels.com/photos/8625953/pexels-photo-8625953.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Shajahani Palav",
+        "price": 270,
+        "image": "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Kashmiri Palav",
+        "price": 270,
+        "image": "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Palak Rice",
+        "price": 240,
+        "image": "https://images.pexels.com/photos/4910316/pexels-photo-4910316.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Ghee Rice",
+        "price": 260,
+        "image": "https://images.pexels.com/photos/25451535/pexels-photo-25451535.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Jeera Rice",
+        "price": 250,
+        "image": "https://images.pexels.com/photos/4910316/pexels-photo-4910316.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Dhal Khichidi",
+        "price": 240,
+        "image": "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Veg Biriyani",
+        "price": 250,
+        "image": "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Mughalai Biriyani",
+        "price": 260,
+        "image": "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Hyderabadi Biriyani",
+        "price": 270,
+        "image": "https://images.pexels.com/photos/28674547/pexels-photo-28674547.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Veg Handi Biriyani",
+        "price": 270,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Palak Khichidi",
+        "price": 240,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Mushroom Kabab Biriyani",
+        "price": 280,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Paneer Kabab Biriyani",
+        "price": 280,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Kaju Mutter Palav",
+        "price": 290,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Babycorn Biriyani",
+        "price": 270,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Paneer Biriyani",
+        "price": 260,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Aloo Biriyanj",
+        "price": 220,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Mushroom Biriyani",
+        "price": 250,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Kaju Mutter Biriyani",
+        "price": 300,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Cheese Tawa Pulay",
+        "price": 260,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      }
+    ]
+  },
+  {
+    "category": "Meals",
+    "items": [
+      {
+        "name": "South Spl Meals",
+        "price": 260,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "North Spl Indian Meals",
+        "price": 350,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Curd Rice",
+        "price": 130,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Fride Rice Combo",
+        "price": 250,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Noddles Combo",
+        "price": 250,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Ghee Rice Combo",
+        "price": 250,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Jeera Rice Combo",
+        "price": 250,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Biriyani Combo",
+        "price": 250,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Chinise Spl Combo",
+        "price": 250,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      }
+    ]
+  },
+  {
+    "category": "Fried Rice",
+    "items": [
+      {
+        "name": "Peking Fried Rice",
+        "price": 230,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Veg Fried Rice",
+        "price": 240,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Paneer Fried Rice",
+        "price": 270,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Mushroom Fried Rice",
+        "price": 260,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Schezwan Fried Rice",
+        "price": 260,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Combination Fried Rice",
+        "price": 290,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Ginger Garlic Fried Rice",
+        "price": 270,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Schezwan Paneer Fried Rice",
+        "price": 280,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Schezwan Mushroom Fried Rice",
+        "price": 280,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Schezwan Babycorn Fried Rice",
+        "price": 280,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Singapore Fried Rice",
+        "price": 260,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Babycorn Fride Rice",
+        "price": 240,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Chowmin Fried rice",
+        "price": 250,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Gobi Fride rice",
+        "price": 240,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Manchow Fried rice",
+        "price": 240,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      }
+    ]
+  },
+  {
+    "category": "Chopsy",
+    "items": [
+      {
+        "name": "Veg Chinese Chopsy",
+        "price": 300,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Veg Ameerican Chopsy",
+        "price": 300,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      }
+    ]
+  },
+  {
+    "category": "Sandwich",
+    "items": [
+      {
+        "name": "Bread Butter Toast",
+        "price": 100,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Bread Butter Jam",
+        "price": 100,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Bread Butter Gulkand",
+        "price": 100,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Sri Udupi Special Sandwich",
+        "price": 170,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Veg Grill Sandwich",
+        "price": 140,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Veg Cheese Grill Sandwich",
+        "price": 160,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Cheese Toast Grill Sandwich",
+        "price": 160,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Veg Paneer Grill Sandwich",
+        "price": 160,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Paneer Taost Grill Sandwich",
+        "price": 160,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Veg Cheese Paneer Grill Sandwich",
+        "price": 180,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Veg Mushroom Grill Sandwich",
+        "price": 170,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      }
+    ]
+  },
+  {
+    "category": "Ice Cream",
+    "items": [
+      {
+        "name": "Vanilla Ice Cream",
+        "price": 90,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Strawberry Ice Cream",
+        "price": 90,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Chocolate Ice Cream",
+        "price": 99,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Mango Ice Cream",
+        "price": 99,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Pista Ice Cream",
+        "price": 99,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Butter Scotch Ice Cream",
+        "price": 99,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Fig And Honey Ice Cream",
+        "price": 99,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Dry Fruit Ice Cream",
+        "price": 100,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Black Current Ice Cream",
+        "price": 99,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      }
+    ]
+  },
+  {
+    "category": "Ice Cream Shake",
+    "items": [
+      {
+        "name": "Rose Milk",
+        "price": 140,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Pista Shake",
+        "price": 140,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Vanilla Shake",
+        "price": 140,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Butter Scotch Shake",
+        "price": 140,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Black Current Shake",
+        "price": 140,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Sapota Shake With Ice Cream",
+        "price": 160,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Daily Special Shakes",
+        "price": 150,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Cold Coffee",
+        "price": 140,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Cold Badam",
+        "price": 140,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Mango Shake",
+        "price": 150,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Orieo Shake",
+        "price": 150,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Chocolate Shake",
+        "price": 140,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Strawberry Shake",
+        "price": 140,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      }
+    ]
+  },
+  {
+    "category": "Fruit Juice",
+    "items": [
+      {
+        "name": "Mosambi Juice",
+        "price": 120,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Orange Juice",
+        "price": 120,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Pineapple Juice",
+        "price": 130,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Ganga Jamuna",
+        "price": 130,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Watermelon Juice",
+        "price": 120,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Mango Juice",
+        "price": 140,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Cocktail Juice",
+        "price": 130,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Muskmelon Juice",
+        "price": 120,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Lime Juice",
+        "price": 80,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Pudina Lime Juice",
+        "price": 90,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Grapes Juice",
+        "price": 140,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Pomegranate Juice",
+        "price": 140,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Orange Solid",
+        "price": 150,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Mosambi Solid",
+        "price": 150,
+        "image": "https://images.pexels.com/photos/28732302/pexels-photo-28732302.jpeg?auto=compress&cs=tinysrgb&h=350"
+      }
+    ]
+  },
+  {
+    "category": "Fruit Shake",
+    "items": [
+      {
+        "name": "Apple Shake",
+        "price": 150,
+        "image": "https://images.pexels.com/photos/5426034/pexels-photo-5426034.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Sapota Shake",
+        "price": 150,
+        "image": "https://images.pexels.com/photos/5426034/pexels-photo-5426034.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Pomegranate Shake",
+        "price": 150,
+        "image": "https://images.pexels.com/photos/7245480/pexels-photo-7245480.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Butter Fruit Shake",
+        "price": 150,
+        "image": "https://images.pexels.com/photos/8696764/pexels-photo-8696764.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Musk Melon Shake",
+        "price": 150,
+        "image": "https://images.pexels.com/photos/8922192/pexels-photo-8922192.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Banana Milkshake",
+        "price": 130,
+        "image": "https://images.pexels.com/photos/4552977/pexels-photo-4552977.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Mango Fruit Shake",
+        "price": 160,
+        "image": "https://images.pexels.com/photos/5426034/pexels-photo-5426034.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Dry Fruit Milksbake",
+        "price": 150,
+        "image": "https://images.pexels.com/photos/5426034/pexels-photo-5426034.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Mango Shake",
+        "price": 150,
+        "image": "https://images.pexels.com/photos/5426034/pexels-photo-5426034.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Orieo Shake",
+        "price": 150,
+        "image": "https://images.pexels.com/photos/5426034/pexels-photo-5426034.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Chocolate Shake",
+        "price": 140,
+        "image": "https://images.pexels.com/photos/29228286/pexels-photo-29228286.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Strawberry Shake",
+        "price": 140,
+        "image": "https://images.pexels.com/photos/4552977/pexels-photo-4552977.jpeg?auto=compress&cs=tinysrgb&h=350"
+      }
+    ]
+  },
+  {
+    "category": "Fruit Juice",
+    "items": [
+      {
+        "name": "Mosambi Juice",
+        "price": 120,
+        "image": "https://images.pexels.com/photos/28732302/pexels-photo-28732302.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Orange Juice",
+        "price": 120,
+        "image": "https://images.pexels.com/photos/5713746/pexels-photo-5713746.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Pineapple Juice",
+        "price": 130,
+        "image": "https://images.pexels.com/photos/28732302/pexels-photo-28732302.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Ganga Jamuna",
+        "price": 130,
+        "image": "https://images.pexels.com/photos/28732302/pexels-photo-28732302.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Watermelon Juice",
+        "price": 120,
+        "image": "https://images.pexels.com/photos/28732302/pexels-photo-28732302.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Mango Juice",
+        "price": 140,
+        "image": "https://images.pexels.com/photos/28732302/pexels-photo-28732302.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Cocktail Juice",
+        "price": 130,
+        "image": "https://images.pexels.com/photos/8743926/pexels-photo-8743926.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Muskmelon Juice",
+        "price": 120,
+        "image": "https://images.pexels.com/photos/28732302/pexels-photo-28732302.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Lime Juice",
+        "price": 80,
+        "image": "https://images.pexels.com/photos/28732302/pexels-photo-28732302.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Pudina Lime Juice",
+        "price": 90,
+        "image": "https://images.pexels.com/photos/28732302/pexels-photo-28732302.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Grapes Juice",
+        "price": 140,
+        "image": "https://images.pexels.com/photos/28732302/pexels-photo-28732302.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Pomegranate Juice",
+        "price": 140,
+        "image": "https://images.pexels.com/photos/28732302/pexels-photo-28732302.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Orange Solid",
+        "price": 150,
+        "image": "https://images.pexels.com/photos/5713746/pexels-photo-5713746.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Mosambi Solid",
+        "price": 150,
+        "image": "https://images.pexels.com/photos/28732302/pexels-photo-28732302.jpeg?auto=compress&cs=tinysrgb&h=350"
+      }
+    ]
+  },
+  {
+    "category": "Fruit Shake",
+    "items": [
+      {
+        "name": "Apple Shake",
+        "price": 150,
+        "image": "https://images.pexels.com/photos/5426034/pexels-photo-5426034.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Sapota Shake",
+        "price": 150,
+        "image": "https://images.pexels.com/photos/5426034/pexels-photo-5426034.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Pomegranate Shake",
+        "price": 150,
+        "image": "https://images.pexels.com/photos/7245480/pexels-photo-7245480.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Butter Fruit Shake",
+        "price": 150,
+        "image": "https://images.pexels.com/photos/8696764/pexels-photo-8696764.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Musk Melon Shake",
+        "price": 150,
+        "image": "https://images.pexels.com/photos/8922192/pexels-photo-8922192.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Banana Milkshake",
+        "price": 130,
+        "image": "https://images.pexels.com/photos/4552977/pexels-photo-4552977.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Mango Fruit Shake",
+        "price": 160,
+        "image": "https://images.pexels.com/photos/5426034/pexels-photo-5426034.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Dry Fruit Milkshake",
+        "price": 150,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      }
+    ]
+  },
+  {
+    "category": "Sweets",
+    "items": [
+      {
+        "name": "Gulab Jamoon",
+        "price": 40,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Rasagulla",
+        "price": 50,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Rasmalai",
+        "price": 60,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Champakali",
+        "price": 70,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Cham Cham",
+        "price": 70,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Malai Sandwich",
+        "price": 80,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Carrot Halwa",
+        "price": 100,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Holige",
+        "price": 50,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Dry Jamoon",
+        "price": 40,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Bread Halwa",
+        "price": 70,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      }
+    ]
+  },
+  {
+    "category": "Special Ice Cream",
+    "items": [
+      {
+        "name": "Gud Bud",
+        "price": 200,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Falooda",
+        "price": 170,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Special Falooda",
+        "price": 180,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Banana Split",
+        "price": 180,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Sri Udupi Food Hub Special Ice Cream",
+        "price": 240,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Nut Sundae",
+        "price": 200,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Vanilla Nut Sundae",
+        "price": 200,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Chocolate Nut Sundae",
+        "price": 210,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Raja Rani",
+        "price": 240,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Titanic Special",
+        "price": 240,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Honeymoon Special",
+        "price": 240,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Fruit Sundae",
+        "price": 220,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "My Favourite",
+        "price": 240,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Lovers Special",
+        "price": 240,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Birthday Special",
+        "price": 250,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      }
+    ]
+  },
+  {
+    "category": "Lassi",
+    "items": [
+      {
+        "name": "Butter Milk",
+        "price": 70,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Sweet Lassi",
+        "price": 120,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Salt Lassi",
+        "price": 120,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Khara Lassi",
+        "price": 120,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Mango Lassi",
+        "price": 130,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Dry Fruit Lassi",
+        "price": 150,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Special Lassi",
+        "price": 140,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      }
+    ]
+  },
+  {
+    "category": "Mocktail",
+    "items": [
+      {
+        "name": "Blue Lime Juice",
+        "price": 100,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Mocktail Juice",
+        "price": 100,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      }
+    ]
+  },
+  {
+    "category": "Fruit Salad",
+    "items": [
+      {
+        "name": "Fruit Salad",
+        "price": 130,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Cut Fruit",
+        "price": 120,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Fruit Salad With Jelly",
+        "price": 140,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Fruit Salad With Ice Cream",
+        "price": 140,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Fruit Salad With Jelly And Ice Cream",
+        "price": 160,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Jelly With Ice Cream",
+        "price": 130,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Fresh Mango With Ice Cream",
+        "price": 170,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      }
+    ]
+  },
+  {
+    "category": "Soda",
+    "items": [
+      {
+        "name": "Fresh Lime Soda",
+        "price": 100,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Pudina Lime Soda",
+        "price": 100,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Ginger Lime Soda",
+        "price": 100,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Masaja Soda",
+        "price": 100,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      }
+    ]
+  },
+  {
+    "category": "Chinese Special",
+    "items": [
+      {
+        "name": "Veg Noodles",
+        "price": 220,
+        "image": "https://images.pexels.com/photos/7594056/pexels-photo-7594056.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Schezwan Noodles",
+        "price": 230,
+        "image": "https://images.pexels.com/photos/7594056/pexels-photo-7594056.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Mushroom Noodles",
+        "price": 230,
+        "image": "https://images.pexels.com/photos/28674530/pexels-photo-28674530.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Paneer Noodles",
+        "price": 250,
+        "image": "https://images.pexels.com/photos/7594056/pexels-photo-7594056.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Singapore Noodles",
+        "price": 250,
+        "image": "https://images.pexels.com/photos/7594056/pexels-photo-7594056.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Hakka Noodles",
+        "price": 250,
+        "image": "https://images.pexels.com/photos/7594056/pexels-photo-7594056.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Chow Mein Noodles",
+        "price": 250,
+        "image": "https://images.pexels.com/photos/7594056/pexels-photo-7594056.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Veg Tripple Noodles",
+        "price": 300,
+        "image": "https://images.pexels.com/photos/7594056/pexels-photo-7594056.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Peaking Noodles",
+        "price": 240,
+        "image": "https://images.pexels.com/photos/7594056/pexels-photo-7594056.jpeg?auto=compress&cs=tinysrgb&h=350"
+      }
+    ]
+  },
+  {
+    "category": "Chats",
+    "items": [
+      {
+        "name": "Masala Puri",
+        "price": 90,
+        "image": "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Pani Puri",
+        "price": 90,
+        "image": "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Bhel Puri",
+        "price": 90,
+        "image": "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Dahi Puri",
+        "price": 100,
+        "image": "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Sev Puri",
+        "price": 100,
+        "image": "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Special Sev",
+        "price": 110,
+        "image": "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Dry Bhel Puri",
+        "price": 100,
+        "image": "https://images.pexels.com/photos/29346015/pexels-photo-29346015.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Special Bhel",
+        "price": 120,
+        "image": "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Bhel Masala Chat",
+        "price": 100,
+        "image": "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Corn Bhel Puri",
+        "price": 100,
+        "image": "https://images.pexels.com/photos/28674530/pexels-photo-28674530.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "All Mix Chat",
+        "price": 120,
+        "image": "https://images.pexels.com/photos/4940719/pexels-photo-4940719.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Tomato Chat",
+        "price": 90,
+        "image": "https://images.pexels.com/photos/14731637/pexels-photo-14731637.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Boondi Chat",
+        "price": 100,
+        "image": "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Mung Dhal Chat",
+        "price": 100,
+        "image": "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Nippat Chat",
+        "price": 120,
+        "image": "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Peanut Masala",
+        "price": 130,
+        "image": "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&h=350"
+      },
+      {
+        "name": "Aloo Puri",
+        "price": 99,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Samosa Plain",
+        "price": 45,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Samosa Chat",
+        "price": 90,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Papdi Chat",
+        "price": 90,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Dahi Potato",
+        "price": 90,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Samosa Masala",
+        "price": 100,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Dahi Chat",
+        "price": 120,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Cucumber Chat",
+        "price": 100,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Udupi Special Chat",
+        "price": 120,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Vada Pav",
+        "price": 80,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Cheese Vada Pav",
+        "price": 100,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Dahi Samosa Chat",
+        "price": 110,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Dahi Aloo Puri",
+        "price": 100,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Dahi Paapdi",
+        "price": 110,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Dahi Boondi Puri Chat",
+        "price": 110,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      }
+    ]
+  },
+  {
+    "category": "Tawa Ka Kamal",
+    "items": [
+      {
+        "name": "Pav Bhaji",
+        "price": 160,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Paneer Pav Bhaji",
+        "price": 170,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Cheese Pav Bhaji",
+        "price": 180,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Pav Manchurian",
+        "price": 160,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Kadai Pav Bhaji",
+        "price": 165,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Extra Pav",
+        "price": 80,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Sri Udupi Special Pav Bhaji",
+        "price": 190,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Single Vada Pav",
+        "price": 40,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Tawa Pulav",
+        "price": 230,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Butter Tawa Pulav",
+        "price": 240,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      },
+      {
+        "name": "Paneer Tawa Pulav",
+        "price": 250,
+        "image": "https://via.placeholder.com/150?text=No+Image"
+      }
+    ]
+  }
+]

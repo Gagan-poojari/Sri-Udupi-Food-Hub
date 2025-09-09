@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useEffect, useState } from 'react';
+import React from 'react';
 import Link from 'next/link';
 import logo from './public/logo.png';
 import Image from 'next/image';
@@ -9,16 +9,16 @@ import { Autoplay, Pagination, EffectCoverflow } from 'swiper/modules';
 import 'swiper/css';
 import 'swiper/css/effect-coverflow';
 import 'swiper/css/pagination';
+import { AiOutlineMenu, AiOutlineClose } from 'react-icons/ai';
 
 const HeroSection = () => {
-  const [scrolled, setScrolled] = useState(false);
-  const [menuOpen, setMenuOpen] = useState(false); // For mobile menu toggle
+  const [menuOpen, setMenuOpen] = React.useState(false);
 
   const links = [
-    { id: 1, name: 'MENU', path: '/menu', to: '#menu' },
-    { id: 2, name: 'BRANCHES', path: '/branches', to: '#branches' },
-    { id: 3, name: 'DIRECTIONS', path: '/directions', to: '#directions' },
-    { id: 4, name: 'ORDER', path: '/order', to: '#order' },
+    { name: 'ABOUT US', href: '#aboutus' },
+    { name: 'MENU', href: '#menu' },
+    { name: 'BRANCHES', href: '#branches' },
+    { name: 'ORDER', href: '#order' },
   ];
 
   const images = [
@@ -43,64 +43,61 @@ const HeroSection = () => {
 
   return (
     <>
-      <header className='h-screen bg-[#000000] hidden md:block '>
+      <header className="lg:h-screen bg-[#000000]">
+        {/* Navbar */}
+        <nav className="w-full bg-black/80 navshad backdrop-blur-sm shadow-md flex items-center justify-between p-4">
+        {/* <nav className="fixed top-0 left-0 w-full z-50 flex items-center justify-between px-4 sm:px-8 py-2"> */}
+          <Link href="/" className="flex items-center gap-3">
+            <Image src='/sufh_logo.svg' alt="Logo" width={100} height={50} className="w-[150px] sm:w-[180px] max-h-[50px] object-cover" priority />
+          </Link>
 
-        <div className={`sm:right-0 z-50 p-7 relative ${scrolled ? 'fixed top-0 left-0 bg-[#00000050] backdrop-blur-sm shadow-md' : ''}`}>
-          <nav className='flex items-center justify-between p-2 pr-7 sm:w-full absolute top-0 left-0 z-50 bg-[#000000a0] backdrop-blur-xl'>
+          <div className="hidden lg:flex items-center gap-10 text-[#cec284] font-medium text-[17px]">
+            {links.map((item, index) => (
+              <a
+                key={index}
+                href={item.href}
+                className="text-lg  relative befaft transition-all duration-200 smooth cursor-pointer"
+              >
+                {item.name}
+              </a>
+            ))}
+          </div>
 
-            <Link href="/" className='flex items-center justify-between sm:w-full w-[10%] ml-2 gap-1 font-bold text-[#fff]'>
-              <div className='flex items-center gap-2'>
+          <div className="lg:hidden flex items-center">
+            <button
+              onClick={() => setMenuOpen(!menuOpen)}
+              className="text-[#cec284] text-2xl smooth focus:outline-none"
+            >
+              {menuOpen ? <AiOutlineClose /> : <AiOutlineMenu />}
+            </button>
+          </div>
+        </nav>
 
-                <Image className='w-[50px] sm:w-[100px] object-cover' src={logo} alt="Logo" priority width={100} height={100} />
-                {/* <div className='text-3xl text-[#fff]'>
-              SHRI UDUPI FOOD HUB
-            </div> */}
-              </div>
-            </Link>
+        {/* Mobile Dropdown */}
+        {menuOpen && (
+          <div className="lg:hidden flex flex-col items-center gap-4 bg-black/90 backdrop-blur-lg p-6 absolute top-[64px] left-0 w-full z-40 shadow-lg">
+            {links.map((item, index) => (
+              <a
+                key={index}
+                href={item.href}
+                onClick={() => setMenuOpen(false)}
+                className="text-[#cec284] text-lg font-medium smooth relative befaft cursor-pointer"
+              >
+                {item.name}
+              </a>
+            ))}
+          </div>
+        )}
 
-            <div className="sm:hidden flex items-center gap-5">
-              <button onClick={() => setMenuOpen(!menuOpen)} className="text-white">
-                <span className="text-3xl">&#9776;</span> {/* Hamburger Icon */}
-              </button>
-            </div>
-
-            {/* Desktop Links (by default visible on larger screens) */}
-            <div className={`gap-10 text-[#ffffff] hidden lg:flex`}>
-              {links.map((item, index) => (
-                <a href={item.to} key={index}>
-                  <div className='flex flex-col'>
-                    <span className='relative befaft font-semibold text-[18px]'>
-                      {item.name}
-                    </span>
-                  </div>
-                </a>
-              ))}
-            </div>
-          </nav>
-
-          {/* Mobile Menu (visible only for small and medium screens) */}
-          {menuOpen && (
-            <div className="sm:hidden flex flex-col items-center bg-[#00000070] p-4 absolute top-16 left-0 w-full">
-              {links.map((item, index) => (
-                <a href={item.to} key={index} className="py-2 text-[#fff] text-lg relative befaft smooth ">
-                  {item.name}
-                </a>
-              ))}
-            </div>
-          )}
-        </div>
-
-        <section className="h-[50vh] sm:h-[80vh] pt-10  flex items-center justify-center bg-[#000000] relative">
+        {/* Hero Swiper */}
+        <section className="h-[50vh] lg:h-[80vh] flex items-center justify-center bg-[#000000] relative">
           <Swiper
             effect="coverflow"
             grabCursor
             centeredSlides
             slidesPerView="auto"
             loop
-            autoplay={{
-              delay: 3000,
-              disableOnInteraction: false,
-            }}
+            autoplay={{ delay: 3000, disableOnInteraction: false }}
             coverflowEffect={{
               rotate: 50,
               stretch: 0,
@@ -117,125 +114,19 @@ const HeroSection = () => {
                 key={idx}
                 className="relative w-[85vw] max-w-4xl h-[75vh] rounded-2xl overflow-hidden shadow-2xl transition-all duration-500"
               >
-
                 <div className="absolute inset-0">
-                  <Image
-                    src={src}
-                    alt={`Slide ${idx + 1}`}
-                    fill
-                    className="object-cover w-full h-full"
-                    priority
-                  />
-                </div>
-
-
-                <div className="absolute inset-0 flex flex-col items-center justify-center bg-black/50 text-white z-10 text-center">
-                  <h2 className="text-2xl md:text-3xl font-bold">
-                    {slideContent[idx].title}
-                  </h2>
-                  <p className="text-sm md:text-lg opacity-90">
-                    {slideContent[idx].subtitle}
-                  </p>
-                </div>
-              </SwiperSlide>
-            ))}
-
-          </Swiper>
-        </section>
-
-      </header>
-      {/*This is for phone*/}
-      <header className='h-[70vh] w-full md:hidden flex flex-col justify-center items-center bg-[#000000] '>
-        {/* HeroSection */}
-        <div className={`right-0 z-50 p-7 ${scrolled ? 'fixed top-0 left-0 bg-[#00000050] backdrop-blur-sm shadow-md' : ''}`}>
-          <nav className='flex items-center justify-between w-full absolute top-0 left-0 z-50 bg-[#00000000]'>
-
-            <Link href="/" className='w-full flex items-center mt-2 justify-center gap-1 font-bold text-[#fff]'>
-              {/* Add priority to the Image component */}
-              <Image className='w-[150px] object-cover' src={logo} alt="Logo" priority width={200} height={200} />
-            </Link>
-
-            {/* Mobile Hamburger Menu */}
-            <div className="sm:hidden flex items-center gap-5">
-              <button onClick={() => setMenuOpen(!menuOpen)} className="text-white">
-                <span className="text-3xl">&#9776;</span> {/* Hamburger Icon */}
-              </button>
-            </div>
-
-            {/* Desktop Links (by default visible on larger screens) */}
-            <div className={`gap-10 text-[#ffffff] hidden lg:flex`}>
-              {links.map((item, index) => (
-                <a href={item.to} key={index}>
-                  <div className='flex flex-col'>
-                    <span className='relative font-semibold text-[18px]'>
-                      {item.name}
-                    </span>
-                  </div>
-                </a>
-              ))}
-            </div>
-          </nav>
-
-          {/* Mobile Menu (visible only for small and medium screens) */}
-          {menuOpen && (
-            <div className="sm:hidden flex flex-col items-center z-50 bg-black p-4 absolute top-16 left-0 w-full">
-              {links.map((item, index) => (
-                <a href={item.to} key={index} className="py-2 text-white text-lg">
-                  {item.name}
-                </a>
-              ))}
-            </div>
-          )}
-        </div>
-        {/* Hero Section with Swiper */}
-        <section className="h-[50vh] w-[90vw] mx-5 pb-10 flex items-center justify-center bg-[#000000] relative">
-          <Swiper
-            effect="coverflow"
-            grabCursor
-            centeredSlides
-            slidesPerView="auto"
-            loop
-            autoplay={{
-              delay: 3000,
-              disableOnInteraction: false,
-            }}
-            coverflowEffect={{
-              rotate: 50,
-              stretch: 0,
-              depth: 100,
-              modifier: 1,
-              slideShadows: true,
-            }}
-            pagination={{ clickable: true }}
-            modules={[Autoplay, Pagination, EffectCoverflow]}
-            className="w-full h-full bg-[#000000]"
-          >
-            {images.map((src, idx) => (
-              <SwiperSlide
-                key={idx}
-                className="relative w-[85vw] max-w-4xl bg-[#000000] h-[75vh] rounded-2xl overflow-hidden shadow-2xl transition-all duration-500"
-              >
-                <div className="relative w-full h-full">
-                  <Image
-                    src={src}
-                    alt={`Slide ${idx + 1}`}
-                    fill
-                    priority
-                    className="object-cover transition-all duration-500"
-                  />
+                  <Image src={src} alt={`Slide ${idx + 1}`} fill className="object-cover w-full h-full" priority />
                 </div>
                 <div className="absolute inset-0 flex flex-col items-center justify-center bg-black/50 text-white z-10 text-center">
                   <h2 className="text-2xl md:text-3xl font-bold">{slideContent[idx].title}</h2>
                   <p className="text-sm md:text-lg opacity-90">{slideContent[idx].subtitle}</p>
                 </div>
               </SwiperSlide>
-
             ))}
           </Swiper>
         </section>
       </header>
     </>
-
   );
 };
 

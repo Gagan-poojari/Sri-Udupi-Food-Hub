@@ -190,7 +190,9 @@ const Map = () => {
 
     return (
         <section
-            className="flex flex-col  items-center w-full min-h-screen bg-[#f7f7e4] p-8 gap-10 ">
+            id='branches'
+            className="flex flex-col  items-center w-full min-h-screen bg-[#000000] p-10 gap-7 ">
+            {/* className="flex flex-col  items-center w-full min-h-screen bg-[#f7f7e4] pt-24 px-10 gap-7 "> */}
             <h1 className="text-4xl md:text-5xl pt-2 font-extrabold text-center uppercase tracking-widest bg-gradient-to-r from-[#bfa14a] via-[#e6d091] to-[#bfa14a] text-transparent bg-clip-text drop-shadow-[0_2px_2px_rgba(0,0,0,0.1)] animate-fade-in">
                 OUR LOCATIONS
             </h1>
@@ -223,8 +225,8 @@ const Map = () => {
                                 icon={createReactIcon2(loc.name === destination.name)}
                             >
                                 <Popup>
-                                    <strong>{loc.name}</strong><br />
-                                    <span className="text-sm">{loc.full}</span>
+                                    <strong>{loc.full}</strong><br />
+                                    <span className="text-sm">{loc.address}</span>
                                 </Popup>
                             </Marker>
                         ))}

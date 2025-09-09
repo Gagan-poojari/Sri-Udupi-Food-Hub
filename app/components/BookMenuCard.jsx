@@ -2,7 +2,8 @@
 import HTMLFlipBook from "react-pageflip";
 import React, { useState } from "react";
 // import menuData from "../data/sufh_menu.json"
-import menuData from "../data/sufh_menu_with_images.json"
+// import menuData from "../data/sufh_menu_with_images.json"
+import menuData from "../data/sufh_menu_with_images08manual.json"
 import Image from "next/image";
 import logo from './public/logo.png';
 
@@ -57,10 +58,11 @@ export default function BookMenuCard() {
 
   return (
     <div id="menu" className="lg:min-h-screen max-h-screen bg-[#f8f8f8] flex flex-col lg:flex-row items-stretch">
+    {/* <div id="menu" className="lg:min-h-screen max-h-screen bg-[#f8f8f8] flex flex-col lg:flex-row items-stretch"> */}
       {/* Sidebar */}
-      <div className="lg:flex lg:h-screen hidden flex-col items-center lg:gap-4 overflow-y-auto navshad bg-[#1f1f1f] py-6 px-10 shadow-2xl max-w-xs w-full scrollbar-thin scrollbar-thumb-[#cec284]/70 scrollbar-track-transparent z-10">
+      <div className="lg:flex lg:h-screen hidden flex-col items-center lg:gap-4 overflow-y-auto menu-scrollbar navshad bg-[#1f1f1f] py-6 px-10 shadow-2xl max-w-xs w-full scrollbar-thin scrollbar-thumb-[#cec284]/70 scrollbar-track-transparent z-10">
         <h2 className="text-2xl font-bold text-[#cec284] mb-6 tracking-wider">Menu Categories</h2>
-        <ul className="space-y-3 w-full overflow-y-auto overflow-x-hidden">
+        <ul className="space-y-3 w-full overflow-y-auto menu-scrollbar overflow-x-hidden">
           {categories.map((category, index) => (
             <li
               key={index}
@@ -82,8 +84,8 @@ export default function BookMenuCard() {
       </div>
 
       {/* Hamburger for Small Screens */}
-      <div className="lg:hidden w-full  bg-[#1f1f1f] px-10 py-4 flex justify-between items-center shadow-md">
-        <h2 className="text-2xl font-bold text-[#cec284]">Menu Categories</h2>
+      <div className="lg:hidden w-full  bg-[#1f1f1f] pr-10 py-4 flex justify-between items-center shadow-md">
+        <h2 className="text-2xl pl-4 font-bold text-[#cec284]">Menu Categories</h2>
         <button
           onClick={() => setMenuOpen(!menuOpen)}
           className="text-[#cec284] font-bold text-2xl focus:outline-none cursor-pointer"
