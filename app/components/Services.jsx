@@ -27,11 +27,12 @@ const fadeInUp = {
 
 const Services = () => {
   return (
-    <section className="min-h-screen relative py-20 bg-black text-white overflow-hidden">
+    <section id="services" className=" relative py-20 bg-black text-white overflow-hidden">
       <div className="max-w-6xl mx-auto px-6">
         {/* Heading */}
         <motion.h2
-          className="text-4xl sm:text-5xl font-extrabold text-center text-[#cec284] mb-14"
+          // className="text-4xl sm:text-5xl font-extrabold text-center text-[#cec284] mb-14"
+          className="text-4xl md:text-5xl mb-10 font-extrabold text-center uppercase tracking-widest bg-gradient-to-r from-[#bfa14a] via-[#e6d091] to-[#bfa14a] text-transparent bg-clip-text drop-shadow-[0_2px_2px_rgba(0,0,0,0.1)]"
           initial="hidden"
           whileInView="visible"
           viewport={{ once: true }}

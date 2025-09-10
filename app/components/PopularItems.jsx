@@ -13,7 +13,7 @@ import popularItems from '../data/popular_items.json';
 const PopularItems = () => {
   return (
     <section
-      id="popular"
+      id="toppicks"
       className="bg-black text-white min-h-screen flex items-center justify-center px-4 md:px-10 py-20 overflow-hidden"
     >
       <div className="max-w-6xl w-full text-center space-y-12">
@@ -23,7 +23,8 @@ const PopularItems = () => {
           whileInView={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6, ease: 'easeOut' }}
           viewport={{ once: true }}
-          className="text-4xl md:text-5xl font-extrabold text-[#cec284] tracking-tight"
+          // className="text-4xl md:text-5xl font-extrabold text-[#cec284] tracking-tight"
+          className='text-4xl md:text-5xl pt-2 lg:mb-10 font-extrabold text-center uppercase tracking-widest bg-gradient-to-r from-[#bfa14a] via-[#e6d091] to-[#bfa14a] text-transparent bg-clip-text drop-shadow-[0_2px_2px_rgba(0,0,0,0.1)]'
         >
           Popular Picks
         </motion.h2>

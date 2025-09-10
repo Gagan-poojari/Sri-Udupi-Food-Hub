@@ -149,6 +149,8 @@ export default function Menu() {
           className="rounded-2xl"
           flippingTime={500}
           maxShadowOpacity={0.5}
+          mobileScrollSupport={true}
+          singlePageMode={true}
         >
           {/* Cover Page */}
           <div className="flex flex-col items-center justify-center bg-gradient-to-b from-[#cec284] via-[#cec284] to-[#cec284] text-center text-sm px-7 py-20 rounded-2xl shadow-xl shadow-[#00000048]">
@@ -158,11 +160,11 @@ export default function Menu() {
             </h1>
             <div className="flex items-center justify-center">
               <Image
-                src={logo}
+                src='/sufh_logo.svg'
                 width={300}
                 height={100}
                 alt="logo"
-                className="rounded-lg my-4 w-[200px] object-cover"
+                className="rounded-lg my-2 w-[600px] h-[100px] object-cover"
               />
             </div>
             <p className="text-sm font-bold text-[#384b38]">
@@ -206,11 +208,11 @@ export default function Menu() {
           <div className="bg-gradient-to-b from-[#cec284] via-[#cec284] to-[#cec284] text-center text-sm px-7 py-14 rounded-2xl shadow-xl shadow-[#00000048] flex flex-col items-center justify-center">
             <div className="flex items-center justify-center">
               <Image
-                src={logo}
+                src="/sufh_logo.svg"
                 width={300}
                 height={100}
                 alt="logo"
-                className="rounded-lg mt-5 w-[200px] object-cover"
+                className="rounded-lg mt-5 w-[600px] h-[100px] object-cover"
               />
             </div>
 

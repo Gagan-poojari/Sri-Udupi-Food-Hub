@@ -31,7 +31,10 @@ const Contact = () => {
       >
         {/* Heading */}
         <motion.div className="space-y-4" variants={fadeInUp} custom={1}>
-          <h2 className="text-4xl md:text-5xl font-extrabold text-[#cec284]">
+          <h2 
+          // className="text-4xl md:text-5xl font-extrabold text-[#cec284]"
+          className="text-4xl md:text-5xl pt-2 lg:mb-10 font-extrabold text-center uppercase tracking-widest bg-gradient-to-r from-[#bfa14a] via-[#e6d091] to-[#bfa14a] text-transparent bg-clip-text drop-shadow-[0_2px_2px_rgba(0,0,0,0.1)]"
+          >
             Contact Us
           </h2>
           <p className="text-gray-300 text-base md:text-lg max-w-2xl mx-auto">

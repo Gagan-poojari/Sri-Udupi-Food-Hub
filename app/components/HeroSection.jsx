@@ -16,9 +16,11 @@ const HeroSection = () => {
 
   const links = [
     { name: 'ABOUT US', href: '#aboutus' },
+    { name: 'TOP PICKS', href: '#toppicks' },
     { name: 'MENU', href: '#menu' },
     { name: 'BRANCHES', href: '#branches' },
-    { name: 'ORDER', href: '#order' },
+    { name: 'SERVICES', href: '#services' },
+    { name: 'CONTACT', href: '#contact' },
   ];
 
   const images = [

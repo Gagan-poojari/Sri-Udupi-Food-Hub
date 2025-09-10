@@ -26,7 +26,8 @@ const AboutUs = () => {
         className="max-w-5xl w-full text-center space-y-10"
       >
         <motion.h1
-          className="text-4xl md:text-5xl font-extrabold text-[#cec284] tracking-tight"
+          // className="text-4xl md:text-5xl font-extrabold text-[#cec284] tracking-tight"
+          className='text-4xl md:text-5xl lg:mb-10 font-extrabold text-center uppercase tracking-widest bg-gradient-to-r from-[#bfa14a] via-[#e6d091] to-[#bfa14a] text-transparent bg-clip-text drop-shadow-[0_2px_2px_rgba(0,0,0,0.1)]'
           variants={fadeInUp}
           custom={1}
         >

@@ -115,13 +115,14 @@ body {
 /* Change Swiper navigation arrows */
 .swiper-button-next,
 .swiper-button-prev {
-  color: #cec284 !important;   /* gold like your theme */
+  transform: scale(0.7);
+  color: #cec284 !important;   
   transition: color 0.3s ease;
 }
 
 .swiper-button-next:hover,
 .swiper-button-prev:hover {
-  color: #fff !important;      /* hover effect */
+  color: #fff !important;     
 }
 
 /* Swiper pagination dots */
